@@ -1,6 +1,25 @@
-txtoorte (ou plutôt TXToorte si j'avais pensé aux majuscules) sera mon blog, pour parler de mes projets, principalement de Jeu de Rôle !
+===========================================================================================================================================
+===========================================================================================================================================
+
+=== BIENVENUE SUR TXToorte ===
+Un blog pour parler principalement de JDR, de mes réflexions, et aussi mes découvertes.
+
+===CHAPITRES===
+Pour trouver une note faites la recherche avec ⌘ CTRL+F ou avec le menue ☰ Menu > ⌕ Trouver dans la Page.
+OUVERTURE
+===========================================================================================================================================
+===========================================================================================================================================
+
+OUVERTURE - 24/07/25
 Le site est totalement inspiré du trop cool : https://minim.blog/posts.txt
 Et tourne avec Github Pages. Si vous voulez faire de même, tout est visible ici : https://github.com/ToorteDot/TXToorte.github.io
+L'idée c'est d'avoir un coin à soit sur l'internet, et pouvoir partager mes idées et mes réflexions quelques part de centralisé.
+Surtout qu'après avoir quitté les réseaux de Musk et Zuckerberg (et réfléchissant à quitter Discord pour cause d'IA et de shitification), pouvoir écrire "dans le dur" ses idées ça me manque.
+En plus le .txt est parfois présenté comme "similaire aux textes écrit dans la pierre : tant qu'il y aura des PC même super basique, ça sera lisible".
+Bel argument.
+Et l'avantage d'un truc plus basique que basique c'est qu'au moins je resterais assez simple. On écrit ce qu'on a à dire et puis zou.
+On verra quand il faudra faire des tableaux lisibles, mais bon !
+Allez, on finit sur la seule petite folie possible, une image en ASCII, et à la revoyure.
 
                  ++++++++++++       
              ++++++++--.-+####       
@@ -20,4 +39,4 @@ Et tourne avec Github Pages. Si vous voulez faire de même, tout est visible ici
        #############+###+++          
         ############                 
 
-See you soon !
+Image en ASCII d'un dé sur le côté.
