@@ -13,7 +13,7 @@ OUVERTURE - 24/07/25
 Le site est totalement inspiré du trop cool : https://minim.blog/posts.txt
 Et tourne avec Github Pages. Si vous voulez faire de même, tout est visible ici : https://github.com/ToorteDot/TXToorte.github.io
 
-L'idée c'est d'avoir un coin à soit sur l'internet, et pouvoir partager mes idées et mes réflexions quelques part de centralisé.
+L'idée c'est d'avoir un coin à soi sur l'internet, et pouvoir partager mes idées et mes réflexions quelque part de centralisé.
 Surtout qu'après avoir quitté les réseaux de Musk et Zuckerberg (et réfléchissant à quitter Discord pour cause d'IA et de shitification), pouvoir écrire "dans le dur" ses idées ça me manque.
 En plus le .txt est parfois présenté comme "similaire aux textes écrit dans la pierre : tant qu'il y aura des PC même super basique, ça sera lisible".
 Bel argument.
