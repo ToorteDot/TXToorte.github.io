@@ -2,12 +2,51 @@
 Un blog pour parler principalement de JDR, de mes réflexions, et aussi mes découvertes.
 
 =====CHAPITRES=====
-Pour trouver une note faites la recherche avec ⌘ CTRL+F ou avec le menue ☰ Menu > ⌕ Trouver dans la Page.
+Pour trouver une note, faites la recherche avec CTRL+F ou avec le menue ☰ Menu > ⌕ Trouver dans la Page.
 
-OUVERTURE
+OUVERTURE - OLD MAN YELLS A THE CENSORS -
+
+Recommandations musicales : ♫
+Recommandations vidéos : ▶
 
 ===========================================================================================================================================
 ===========================================================================================================================================
+
+OLD MAN YELLS A THE CENSORS - 27/07/2025
+Je voulais écrire les lundi, mais on est dimanche, j'ai du temps et surtout je sais sur quoi je veux écrire.
+J'aurais voulu commencer à vous parler de mes supers projets de jdr, ou de mes découvertes de la semaine (j'en mettrais quand même à la fin), mais non. On vit dans une saucisse et on n'a pas le droit de s'amuser visiblement.
+
+Cette semaine, un groupe de pression Australien, "Collective Shout", a mis la pression a des services de paiement (Visa et Mastercards) pour qu'ils tapent sur les doigts de Steam et Itch.io, des plateformes qui acceptent du contenu adulte. Et évidemment, puisqu'entre gens de droite conservateur on s'entend bien, Visa et Mastercards ont accepté avec plaisir.
+Résultat : Steam a banni plusieurs 100ai de jeux (500 je crois ? Je n'ai pas trop suivit ce qui se passait de ce côté de la barrière j'avoue), et Itch.io a d'abord shadowban TOUT les jeux taggé comme "Adulte" ou "NSFW" et a ensuite expliqué qu'ils allaient ban les créations qui "posent problème".
+
+Alors déjà, depuis quand les services de paiement doivent dicter la politique éditorial d'un site ? Sites qui ont des déjà Terms of Service, qui sont là pour dire ce qui est légal ou non sur leur plateforme. Que cette pression soit possible est un "léger souci".
+Et Itch.io est une très grosse plateforme pour les jeux-vidéos, après Steam, et pour les JDR, après DTRPG. La façon dont la plateforme a géré ça est détestable : aucun avertissement à la communauté qui fait vivre le site, aucune bannière ou communiqué pour dire qu'iels ne sont pas d'accord avec cette façon de faire, rien. Bien sûr qu'on ne peut pas faire face à Visa et Mastercards quand on est un site internet, aussi gros soit on : "Soit tu fais comme on veut, soit tu ne peux plus prendre l'argent". Pas de doute.
+Mais DAMN, faites un effort, respectez-vous, faites du bruit, résistez, râlez, même si vous êtes obligé de plier.
+
+Le contenu qui a été (et l'est toujours) shadowban est sensible, on parles de porn et autres joyeusetés, évidemment c'est sensible. Et c'est pour ça que ces jeux étaient taggés NSFW ou Adulte, pour que ça soit rangé au bon endroit et que ça ne tombe pas sous la trogne du premier gosse venu.
+Et quelqu'un sur les forums Itch faisait remarquer à juste titre : cet outil de tag a été utilisé contre les créateurices qui avaient joué le jeu et correctement tag leurs jeux. Tu parles d'un coup dans le dos.
+
+Enfin, Itch a mis à jour la liste des contenus interdit, et elle est incroyablement vague.
+Théoriquement, l'application strict interdirait des créations qui analysent ou critiquent ces sujets, puisque le sujet dans son ensemble est interdit. Evidemment, on se doute que ça ne sera pas appliqué tel quel mais ça suppose 2 choses :
+- Que le tri est fait par des humains, dans une époque qui adore tout automatisé et laisser la poubelle brûler pour économiser 2 centimes.
+- Que la modération ne décide pas de devenir encore plus flippée de la pression des Conservateurs ou décide purement et simplement de virer, Trump-style, toute mention d'un pénis par exemple. Too bad pour votre ce livre éducatif sur l'anatomie humaine !
+
+Et puis surtout : les censeurs on les connait. On nous dit que c'est pour protéger les enfants, ou parce que mettre en scène des viols c'est mal. Sauf qu'on sait pertinemment que leur problème n'est pas là, sinon iels mettraient leur énergie dans l'éducation et autres choses vraiment efficace pour protéger quiconque.
+Iels commencent simplement par le plus facile. C'est un "pied dans la porte".
+Les plateformes ayant fait les paillassons sans aucune résistance, on peut s'attendre à ce que des assos comme Collective Shout & co décident de continuer. Et faire bannir ces méchants écrits politiques et féministes, ou bien ces horribles personnes Trans ou queer. (d'ailleurs iels parlent de cul, alors iels sont déjà en danger de censure en fait, comme c'est dommage…)
+
+BREF. Ca a été l'occasion de réaliser que je comprenais pas très bien cette partie du système bancaire, qu'est-ce que Visa et Mastercards, et qu'en France et en Europe à priori on a l'avantage pas comme aux US de faire des paiements banque à banque direct, sans passer par ces services, et donc assurer un peu plus d'autonomie.
+Des gens réfléchissent à des façons de faire autrement, et si le sujet vous intéresse je vous renvoie vers le Discord du projet Conjured Ink, qui réfléchis à faire un index de plateformes autonomes et de la doc pour les artistes pour gérer ses paiements.
+
+- Conjured Ink : https://discord.gg/y4WMHejC
+- Une pétition ici : https://www.change.org/p/tell-mastercard-visa-activist-groups-stop-controlling-what-we-can-watch-read-or-play?recruited_by_id=ffe8f520-688d-11f0-8b9b-bfd0d4a4459b&utm_source=share_petition&utm_campaign=psf_combo_share_initial&utm_term=psf&utm_medium=copylink
+- Une autre là : https://action.aclu.org/petition/mastercard-sex-work-work-end-your-unjust-policy
+
+Et pour la partie fun de tout ça, quelques recommandations diverses :
+♫ - "Cry", ce banger de Ashniko (Bon feat Grimes, mais on lui pardonne) : https://youtu.be/IJR9PoOLDXY?si=-YBeFKblxAG0x5UF
+▶ - Si comme moi vous avez bien apprécié le film d'animation "Kpop Demon Hunter" et que vous écouté sa super BO mais que vous connaissez rien au merveilleux monde de la Kpop, il y a cette chouette vidéo qui de Tev ici japon. Attention, ça parle globalement de harcèlement, industrie ultra toxique, et autres sujet assez pesant : https://youtu.be/bEtHMdrG9NY?si=ghMAwSyLny2J3eYn
+
+
 
 OUVERTURE - 24/07/25
 Le site est totalement inspiré du trop cool : https://minim.blog/posts.txt
