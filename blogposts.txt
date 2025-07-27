@@ -47,7 +47,6 @@ Et pour la partie fun de tout ça, quelques recommandations diverses :
 ▶ - Si comme moi vous avez bien apprécié le film d'animation "Kpop Demon Hunter" et que vous écouté sa super BO mais que vous connaissez rien au merveilleux monde de la Kpop, il y a cette chouette vidéo qui de Tev ici japon. Attention, ça parle globalement de harcèlement, industrie ultra toxique, et autres sujet assez pesant : https://youtu.be/bEtHMdrG9NY?si=ghMAwSyLny2J3eYn
 
 
-
 OUVERTURE - 24/07/25
 Le site est totalement inspiré du trop cool : https://minim.blog/posts.txt
 Et tourne avec Github Pages. Si vous voulez faire de même, tout est visible ici : https://github.com/ToorteDot/TXToorte.github.io
