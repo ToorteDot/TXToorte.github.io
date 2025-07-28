@@ -60,6 +60,7 @@ Et l'avantage d'un truc plus basique que basique c'est qu'au moins je resterais 
 On verra quand il faudra faire des tableaux lisibles, mais bon !
 
 Allez, on finit sur la seule petite folie possible, une image en ASCII, et à la revoyure.
+Test
 
                      ++++++++++++       
                  ++++++++--.-+####       
