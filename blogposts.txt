@@ -13,7 +13,7 @@ Recommandations autres : ☛
 ===========================================================================================================================================
 ===========================================================================================================================================
 
-CHÊNOMRE (devlog 1)
+CHÊNOMRE (devlog 1) - 04/08/25
 Cette semaine j'aurais pu vous parler de mon super JDR Section Recherches-ARTEFACT, "X-Files en France", qui va bientôt sortir après plus de 4 ans de taff, mais ce serait trop facile !
 Non, à la place je vais vous parler d'un JDR dans un univers inspiré d'Hollow Knight, qui a connu BEAUCOUP de mutation et d'itération, mais qui est entré dans une nouvelle ère vachement prometteuse je trouve !
 
@@ -105,4 +105,5 @@ Allez, on finit sur la seule petite folie possible, une image en ASCII, et à la
             ############                 
 
     Image en ASCII d'un dé sur le côté.
+
 
