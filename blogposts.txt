@@ -1,17 +1,44 @@
 ===== BIENVENUE SUR TXToorte =====
 Un blog pour parler principalement de JDR, de mes réflexions, et aussi mes découvertes.
+Un post tout les lundi, à moins que j'ai la flemme.
+
+Et si vous tenez absolument à savoir quand le projet est mis à jour, voilà le flux RSS le moins sexy que vous croiserez : https://github.com/toortedot/TXToorte.github.io/commits/main.atom
 
 =====CHAPITRES=====
-Pour trouver une note, faites la recherche avec CTRL+F ou avec le menue ☰ Menu > ⌕ Trouver dans la Page.
+Pour trouver une note, faites la recherche avec CTRL+F ou avec le menu ☰ Menu > ⌕ Trouver dans la Page.
 
-OUVERTURE - OLD MAN YELLS A THE CENSORS - CHÊNOMRE (devlog 1) -
+OUVERTURE - OLD MAN YELLS A THE CENSORS - CHÊNOMRE (devlog 1) - CE POST N'EST PAS VRAIMENT SUR LES LIBRAIRIES - 
 
-Recommandations musicales : ♫
-Recommandations vidéos : ▶
-Recommandations autres : ☛
+Recommandations JDR/JDS : ⚄ - Recommandations musicales : ♫ - Recommandations vidéos : ▶ - Recommandations autres : ☛
 
 ===========================================================================================================================================
 ===========================================================================================================================================
+
+CE POST N'EST PAS VRAIMENT SUR LES LIBRAIRIES - 11/08/25
+Cette semaine j'ai eu l'occasion de causer ouverture de librairie, burn-out, et réussite d'un projet.
+On parlait avec ma copine, et ex-libraire, de la difficulté d'ouvrir une librairie. Tous les impératifs, le personnel, les horaires à respecter, etc.
+Et puis je me suis rendu compte que ma librairie préférée de ma ville natale, librairie toujours en fonctionnement, est… Pas très ambitieux : Un local pas très grand, uniquement les deux patrons, pas de belle vitrine qui change tous les mois, pas de "mot du libraire" laissé sur certain livre coup-de-cœur, très peu de dédicace ou d'événement. Même pas de produit dérivé de rien du tout. 
+Le strict minimum.
+Alors je ne peux pas présumer de comment ils vivent, la vente de BD c'est pas le plus lucratif disons et j'imagine que l'entourage joue un rôle, mais la boutique est toujours là depuis 15/20 ans.
+
+Pour ce qui est des horaires, en vrai, on parle d'une librairie, pas d'un hôpital. Si tu es ton propre patron, et pour peu que tu aies un site pour prévenir les gens, hé bien pourquoi devoir ABSOLUMENT devoir être ouvert de 9h à 19h, 6 jours sur 7 ?
+En tant que client je sais que je serais peut-être déçu de trouver porte close, surtout si je voulais montrer le lieu à quelqu'un de passage par exemple, mais j'aime aussi beaucoup savoir que "mon commerçant" du coin à l'occasion de respirer ou de gérer ses problèmes urgents. Des gens seraient sûrement relou là dessus, mais savoir que mon libraire est humain et n'est pas enchaîné à son commerce, j'aime bien.
+
+Et bref, tout ça pour dire que c'est comme la notion de Scope, la taille et l'ambition d'un projet, qu'on évoque beaucoup en jeux-vidéo : on a toujours envie de faire comme l'œuvre qui nous a marqué. Faire sa trilogie de film, faire sa série de dark fantasy avec worldbuilding et système de magie ultra fouillé, dessiner des décors complexes et avec un délicat travail de la couleur et des personnages trop cool et et et… Et on fait pas, on finit pas.
+"Le mieux est l'ennemi du bien" quoi. Et c'est fort con.
+
+Alors si vous voulez ouvrir votre boutique, hé bha peut-être que vous pouvez commencer petit et vous rendre compte qu'à votre taille, vous n'avez pas du tout besoin de faire des ventes gigantesque pour rester à flot. Peut-être que vous pourriez aussi faire ce tout petit dessin d'un truc cool et rien rajouter autour.
+Faire des trucs et les finir, ou au moins accepter qu'on "arrête là" le travail pour cette pièce, c'est vital.
+On apprend en faisant ça, ça nous donne l'occasion de causer aux autres, d'avoir des retours, des nouvelles idées, des rencontres. Et plus tard on revisitera ces idées si on a toujours envie, fort de nouvelles compétences.
+
+Bref, au final c'est une porte ouverte que j'enfonce, et une leçon que j'ai moi-même beaucoup de mal à suivre (on en parle de ce jdr sur lequel je bosse depuis 4 ans ?), mais hé.
+Au pire, ça vous aura ptêt donné envie d'ouvrir une librairie, qui sait.
+
+⚄ - Un petit jdr en une page, avec un système de Santé mentale qui me laisse très dubitatif, mais dont l'enquête est une excellente compression du système de Brindlewood Bay, qui semble très intéressant pour des enquêtes ENCORE PLUS émergentes ! "Sanity", par G0ri : https://g0ri.itch.io/sanity
+☛ - Les zigouigoui dans le jeu Hollow Knight ne veulent rien dire à la base, c'est juste joli, mais évidemment des loustics ont décidés d'en faire une langue ! C'est intéressant de voir les réflexions, quand rester fidèle au matériel d'origine et quand s'en éloigner pour le bien du projet, un problème qu'on a aussi quand on essaie d'adapter un univers par exemple. https://www.eurogamer.net/how-hollow-knights-community-crafted-gibberish-into-a-real-language
+☛ - Un jeu de rythme au visuel ultra stylé, qui a l'air de vouloir raconter quelque chose d'intéressant, et avec une démo généreuse ? Il faudra attendre qu'il sorte, mais la démo donne très envie et une petite version gratuite avec pas mal de musique est déjà là pour attendre. "UNBEATABLE" et "UNBEATBALE white label", par D-CELL GAMES : https://store.steampowered.com/app/2240620/UNBEATABLE/
+♫ - Un peu de musique ? Et pourquoi pas un peu de musique qui vous donne envie de mettre des lunettes oranges, prendre votre pair de roller ou votre skate, trouver la meilleure rampe de la ville pour faire du grind ou un joli mur blanc pour tagger votre nom ? Et ensuite regarder FuliCuli sur la TV cathodique que vous avez ramenez dans le coin de forêt qui vous sert de salon, avec ce fauteuil défoncé mais plutôt confortable ? En gros, écoutez cet album, un classique de 2Mello, "Memories Of Tokyo-To" : https://www.youtube.com/watch?v=OBt8ioYEXBw&t=2141s
+
 
 CHÊNOMRE (devlog 1) - 04/08/25
 Cette semaine j'aurais pu vous parler de mon super JDR Section Recherches-ARTEFACT, "X-Files en France", qui va bientôt sortir après plus de 4 ans de taff, mais ce serait trop facile !
@@ -77,12 +104,15 @@ Le site est totalement inspiré du trop cool : https://minim.blog/posts.txt
 Et tourne avec Github Pages. Si vous voulez faire de même, tout est visible ici : https://github.com/ToorteDot/TXToorte.github.io
 
 L'idée c'est d'avoir un coin à soi sur l'internet, et pouvoir partager mes idées et mes réflexions quelque part de centralisé.
+Je voudrais poster tout les lundi, "à moins que j'ai la flemme" ou vraiment rien à dire (ce qui devrait arriver rarement, navré).
 Surtout qu'après avoir quitté les réseaux de Musk et Zuckerberg (et réfléchissant à quitter Discord pour cause d'IA et de shitification), pouvoir écrire "dans le dur" ses idées ça me manque.
 En plus le .txt est parfois présenté comme "similaire aux textes écrit dans la pierre : tant qu'il y aura des PC même super basique, ça sera lisible".
 Bel argument.
 
 Et l'avantage d'un truc plus basique que basique c'est qu'au moins je resterais assez simple. On écrit ce qu'on a à dire et puis zou.
 On verra quand il faudra faire des tableaux lisibles, mais bon !
+
+Si vous tenez absolument à savoir quand le projet est mis à jour, voilà le flux RSS le moins sexy que vous croiserez : https://github.com/toortedot/TXToorte.github.io/commits/main.atom
 
 Allez, on finit sur la seule petite folie possible, une image en ASCII, et à la revoyure.
 
@@ -105,5 +135,4 @@ Allez, on finit sur la seule petite folie possible, une image en ASCII, et à la
             ############                 
 
     Image en ASCII d'un dé sur le côté.
-
 
