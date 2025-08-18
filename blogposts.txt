@@ -7,12 +7,71 @@ Et si vous tenez absolument à savoir quand le projet est mis à jour, voilà le
 =====CHAPITRES=====
 Pour trouver une note, faites la recherche avec CTRL+F ou avec le menu ☰ Menu > ⌕ Trouver dans la Page.
 
-OUVERTURE - OLD MAN YELLS A THE CENSORS - CHÊNOMRE (devlog 1) - CE POST N'EST PAS VRAIMENT SUR LES LIBRAIRIES - 
+OUVERTURE - OLD MAN YELLS A THE CENSORS - CHÊNOMRE (devlog 1) - CE POST N'EST PAS VRAIMENT SUR LES LIBRAIRIES - LA SECTION -
 
 Recommandations JDR/JDS : ⚄ - Recommandations musicales : ♫ - Recommandations vidéos : ▶ - Recommandations autres : ☛
 
 ===========================================================================================================================================
 ===========================================================================================================================================
+
+LA SECTION - 17/08/25
+Le week-end qui vient je vais participer à la Queervention, et mener plusieurs parties de mon jeu Section Recherches - ARTEFACT (SR-A). Et donc c'est l'occasion de présenter la bête !
+SR-A c'est un jeu d'enquête horrifique, avec un système simple et des mystères émergents, qui se passe à notre époque en France.
+Beaucoup de choses.
+
+A l'origine, le projet à commencer en imaginant juste ce que pourrait être une organisation comme Delta Green, surement mon univers de jdr préféré (univers, pas système, parce que le système d100 ne peut pas être le préféré de quiconque… Si ?), mais en France. Ça a donné quelques semaines de recherches sur les agences de renseignements Françaises et leur histoire, et puis assez vite y a eu l'envie de faire un petit système de jeu avec, évidemment.
+Au début je me suis inspiré de NOVA, mais je ne comprend plus vraiment mon choix de l'époque tellement c'est pas très adapté. Au moins j'ai posé une base du "lore" de cet univers, pas quelque chose qui casse trois pattes à un canard, mais je me suis inspiré de Hollow Knight et autre Dark Souls, et d'une nouvelle de Neil Gaiman (un auteur cher à mon coeur avant qu'on apprenne, Ô surprise, que c'est un agresseur) intitulée "A Study in Emerald".
+
+Les choses sérieuses commencent quand je découvre mon grand amour depuis ces dernières années : Brindlewood Bay et ses dérivés.
+Je disais que j'adorais Delta Green, mais je n'y avais quasiment jamais joué avant il y a 2 ans, parce que OH MON DIEU les enquêtes pré écrites quelle purge boudiou !! Devoir préparé tout ça, lire et relire, galérer en partie parce que tes PJ sortent du cadre pile de la façon pas prévue ou demandent une information précise qui est quelque part, tu l'a vu, c'est sûr, mais où ? Non vraiment, sans façon.
+Et soudain, Brindlewood Bay : un PBTA qui propose des personnages et décors décrit en 3 mots, quelques questions chargées, et surtout une liste d'Indices à insérer dans la fiction quand on veut, en les tordant à volonté. Car BBay, et ses descendants, les Carved from Brindlewood, sont des jeux d'enquêtes émergents : pas de réponse au mystère présenté.
+Pour finir une partie, les joueureuses doivent inventer une Théorie et utiliser les Indices collectés durant la partie pour la soutenir. Puis la MJ fait un jet, et ça nous dit à quel point on se foire ou non.
+Tout est possible, dans les limites de la cohérence de l'univers et de l'histoire déjà racontée, et ça c'est beau. J'ai joué ou fait joué presque une dizaine de fois le premier scénario de BBay et n'ai jamais eu la même histoire ni la même réponse. 
+Quel PLAISIR.
+
+Donc évidemment j'ai branché ça sur mon jeu, en le faisant passer sur du Cthulhu Dark plutôt qu'un PBTA, par flemme d'écrire des Moves et parce que je trouve que l'attrition de CDark fonctionne à merveil pour de l'horreur avec très peu de moyen.
+Ça m'a demandé pas mal de test, et pour tout dire mon système de résolution pour savoir si une Théorie est vraie ou non manque "d'élégance" à mon goût, mais bon. En gros :
+- On fait la Théorie et on liste les Indices qui s'y rattachent.
+- Ces Indices donnent un score, qui indique la "qualité" de la Théorie. Il y a trois "qualités", chacune rattachée à une échelle de réussite différente.
+- La MJ lance 1d6 en secret, et se réfère à l'échelle de réussite correspondant à la qualité. C'est à dire qu'un 5 pour une Théorie de qualité "très crédible" en fera une réussite parfaite, alors qu'un 5 pour une Théorie "très improbable" en fera une réussite mitigée.
+Cette façon de faire a ses avantages, mais j'aurais aimé pouvoir réutiliser plus proprement les mécaniques de CDark plutôt que bidouiller ce truc en plusieurs étapes.
+Oh well, il faut savoir se contenter de ce qui marche parfois.
+
+Ça fait plus de 5 ans que je traîne ce jeu et ses itérations, avec un paquet de playtest dont une grosse campagne, et j'arrive AU BOUT.
+J'ai fini la maquette, les illustrations et les aides de jeux il y a quelques mois; j'ai fini de peaufiner les Affaires présentes dans le bouquin; et une bonne âme a fait la relecture et la correction d'une bonne moitié du jeu cette semaine. Des impressions tests sur Lulu ont été faites ces derniers mois aussi, pour les fans de bouquins, j'ai le trailer a finir de monter mais…
+Bha… 
+C'est bientôt fini. Ça pourra être publié et tout.
+Un beau bébé de plus de 130 pages : 20 pages pour les règles et conseils de jeux, 15 pages de conseils pour jouer en France et d'aides de jeux, et le reste pour les 9 Affaires. Fervent défenseur du minimalisme j'aurais aimé que ça tienne en 10 pages croyez-moi, mais je pense avoir mis ce qu'il faut pour mener ce jeu confortablement et c'est le principale.
+
+Et quand ce sera fini, et que ce sera en ligne, j'espère que le projet trouvera son public !
+Surtout que ça, c'est la base, mais j'ai des idées de règles pour jouer en Campagne, comment gérer une Campagne émergente. Et ce week-end je fais jouer 3 scénarios qui sont pas dans le bouquin. Donc c'est pas si fini que ça en vrai.
+Mais bon, chaque chose en son temps disons !
+
+♫ - Je suis retombé sur les albums de IAMX, et j'y trouve toujours quelque chose d'assez puissant et sombre, qui donne envie de faire des AMV tragiques ! Une parmis d'autres, "President" : https://www.youtube.com/watch?v=Z-VO9c8kJN0
+▶ - Si vous aimez les jeux-vidéos et les analyses complètes, la chaîne d'Esquive la Boule de Feu est une mine d'or, et en Français s'il vous plaît ! Ces derniers jours j'ai regardé toutes ses vidéos sur la série Thief, et j'ai même installé le premier qui pour le moment est très chouette et me donne espoir que peut-être j'arriverais aussi à jouer à Dishonored et son univers trop cool ! https://www.youtube.com/watch?v=wRMaj0o-BWk
+
+
+   ###############################   
+ ##+     +################++     ++  
+ +#####                       ###++  
+     +##                     ###+      
+     ##########             ###      
+ +###+      ##############+# +#######
+####    ####+                 +######
+ +#####++                ####+++     
+      ########          ###          
+           ###  +####++              
+               ##    ##+             
+                #+  +#+              
+                ++##+                
+               +#     ##             
+               ##+    +##            
+             ##+        ######       
+       +######              #####    
+      #######################++      
+     ##+                     ++      
+      ##############++######           
+
 
 CE POST N'EST PAS VRAIMENT SUR LES LIBRAIRIES - 11/08/25
 Cette semaine j'ai eu l'occasion de causer ouverture de librairie, burn-out, et réussite d'un projet.
