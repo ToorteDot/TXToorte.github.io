@@ -7,12 +7,33 @@ Et si vous tenez absolument à savoir quand le projet est mis à jour, voilà le
 =====CHAPITRES=====
 Pour trouver une note, faites la recherche avec CTRL+F ou avec le menu ☰ Menu > ⌕ Trouver dans la Page.
 
-OUVERTURE - OLD MAN YELLS A THE CENSORS - CHÊNOMRE (devlog 1) - CE POST N'EST PAS VRAIMENT SUR LES LIBRAIRIES - LA SECTION -
+OUVERTURE - OLD MAN YELLS A THE CENSORS - CHÊNOMRE (devlog 1) - CE POST N'EST PAS VRAIMENT SUR LES LIBRAIRIES - LA SECTION - QUEERVENTION 2025
 
 Recommandations JDR/JDS : ⚄ - Recommandations musicales : ♫ - Recommandations vidéos : ▶ - Recommandations autres : ☛
 
 ===========================================================================================================================================
 ===========================================================================================================================================
+
+QUEERVENTION 2025 - 28/08/25
+Comme prévu, j'ai passé le weekend à la convention rôliste et queer de Rennes, et c'était fort bien !
+J'ai pu faire jouer 3 scénarios "inédits" de SR-A, dont un jamais playtesté et un écrit pour l'occasion. J'aime bien profiter des parties prévus pour me motiver à écrire, ne serait-ce qu'un squelette très basique, et me servir de la partie, ce qui a marché ou non, ce qui m'a intéressé et les idées qu'on a eu à la table, pour préciser ma vision du scénario et l'étoffer.
+
+On a commencé le vendredi par une enquête sur le campus de Beaulieu, où une chercheuse en physique a appelé la Section en panique mais quand les joueureuses arrivent sur place, elle est déjà morte. S'en est suivi une histoire de pendule de Foucault et de déphasage dans le temps sur fond de haïku mystique, c'était très fun !
+Le samedi aprèm c'était une histoire de médicaments volés et d'une femme a deux endroits en même temps. Cette partie aurait pu être la première depuis que je fais jouer SR-A où on conclut qu'il n'y a pas de surnaturel, mais les joueureuses avaient très envie d'étrange et d'Irrégularité. D'ailleurs le scénario liste les médicaments, et ils sont très orientés "fécondation In Vitro", mais les joueureuses ont réussis à dévier ça pour parler d'une entité métamorphe qui a besoin de ces médocs pour stabiliser sa forme, et c'était un détournement très cool !
+Et le soir on était sur une enquête dans la forêt de Boscodon où les gens ont tendance à disparaître et des escaliers chelous se baladent. J'étais assez fatigué, mais l'ambiance horrifique est arrivée très vite et on a toustes eu bien les chocottes ! Et je crois que les joueureuses se rappelleront quelques jours du manoir qui flambe et de ses cris d'agonie au beau milieu de la forêt silencieuse…
+
+Finalement, suite à un micmac quelconque je n'avais pas de partie le dimanche ce qui m'a donné l'occasion de m'inscrire à la table de Gullix pour jouer à du Public Access.
+Outre mon goût très varié en termes d'univers et de système, on se moque pas, c'était fun de jouer pour la première fois à ce CfB en tant que joueur. On a exorcisé la maison d'Escondido Street a grand renfort de verset de la bible et de bandes VHS enflammées pour remplacer les bougies. J'ai réussi le rituel final grâce à mon Move de personnage, qui me donnait une réussite critique si je faisais une action avec style, et j'ai encore un peu l'impression d'avoir triché. Oh well =')
+Et comme le disait Gullix dans son débrief, c'est la première fois qu'on voit le PNJ de Patience Head apprécier les PJ. Dans une campagne ça aurait été marrant de voir cette vieille acariâtre comme alliée, pour une fois !
+
+Bref, c'était un très chouette week-end ! J'ai eu l'occasion de papoter avec Gullix et Côme Martin, craquer pour un jeu du Rayon alternatif, craquer aussi pour quelques pins et broches trop choupix, et rencontrer des chouettes gens, dont un membre de la commu de Globtopus ce qui est toujours agréable.
+Bref, les conventions c'est fatiguant mais qu'est-ce que c'est chouette. D'autant dans un cadre queer comme ça, où on rencontre pas mal de gens chouettes et où on peut parler des pronoms sans voir des yeux se lever en l'air.
+
+♫ - Une musique un peu hypnotique, pour accompagner ce début de semaine : "Black out days" de Phantogram, https://www.youtube.com/watch?v=G3OihW5MPKA&list=PLYCiuEAERXHD1WGueH9IDxtOQt-KvajGp&index=27
+⚄ - Si vous êtes dans le coin de Rennes et seriez intéressé par la Queervention, vous avez les infos ici : https://ludiqueer.org/
+⚄ - Si vous ne connaissez pas le collectif du Rayon alternatif et les chouettes créateurices qui y sont, c'est par là : https://rayonalternatif.fr/
+☛ - Et un chouette article de blog partagé par Nima sur le Discord de C'est pas du jdr, "IF YOU LOVE IT, DOWNLOAD IT", qui donne des tips utile pour la préservation des choses que vous trouvez cool en ligne : https://erysdren.me/blog/2025-08-16/
+
 
 LA SECTION - 17/08/25
 Le week-end qui vient je vais participer à la Queervention, et mener plusieurs parties de mon jeu Section Recherches - ARTEFACT (SR-A). Et donc c'est l'occasion de présenter la bête !
@@ -20,7 +41,7 @@ SR-A c'est un jeu d'enquête horrifique, avec un système simple et des mystère
 Beaucoup de choses.
 
 A l'origine, le projet à commencer en imaginant juste ce que pourrait être une organisation comme Delta Green, surement mon univers de jdr préféré (univers, pas système, parce que le système d100 ne peut pas être le préféré de quiconque… Si ?), mais en France. Ça a donné quelques semaines de recherches sur les agences de renseignements Françaises et leur histoire, et puis assez vite y a eu l'envie de faire un petit système de jeu avec, évidemment.
-Au début je me suis inspiré de NOVA, mais je ne comprend plus vraiment mon choix de l'époque tellement c'est pas très adapté. Au moins j'ai posé une base du "lore" de cet univers, pas quelque chose qui casse trois pattes à un canard, mais je me suis inspiré de Hollow Knight et autre Dark Souls, et d'une nouvelle de Neil Gaiman (un auteur cher à mon coeur avant qu'on apprenne, Ô surprise, que c'est un agresseur) intitulée "A Study in Emerald".
+Au début je me suis inspiré de NOVA, mais je ne comprend plus vraiment mon choix de l'époque tellement c'est pas très adapté. Au moins j'ai posé une base du "lore" de cet univers, pas quelque chose qui casse trois pattes à un canard, mais je me suis inspiré de Hollow Knight et autre Dark Souls, et d'une nouvelle de Neil Gaiman (un auteur cher à mon cœur avant qu'on apprenne, Ô surprise, que c'est un agresseur) intitulée "A Study in Emerald".
 
 Les choses sérieuses commencent quand je découvre mon grand amour depuis ces dernières années : Brindlewood Bay et ses dérivés.
 Je disais que j'adorais Delta Green, mais je n'y avais quasiment jamais joué avant il y a 2 ans, parce que OH MON DIEU les enquêtes pré écrites quelle purge boudiou !! Devoir préparé tout ça, lire et relire, galérer en partie parce que tes PJ sortent du cadre pile de la façon pas prévue ou demandent une information précise qui est quelque part, tu l'a vu, c'est sûr, mais où ? Non vraiment, sans façon.
@@ -29,7 +50,7 @@ Pour finir une partie, les joueureuses doivent inventer une Théorie et utiliser
 Tout est possible, dans les limites de la cohérence de l'univers et de l'histoire déjà racontée, et ça c'est beau. J'ai joué ou fait joué presque une dizaine de fois le premier scénario de BBay et n'ai jamais eu la même histoire ni la même réponse. 
 Quel PLAISIR.
 
-Donc évidemment j'ai branché ça sur mon jeu, en le faisant passer sur du Cthulhu Dark plutôt qu'un PBTA, par flemme d'écrire des Moves et parce que je trouve que l'attrition de CDark fonctionne à merveil pour de l'horreur avec très peu de moyen.
+Donc évidemment j'ai branché ça sur mon jeu, en le faisant passer sur du Cthulhu Dark plutôt qu'un PBTA, par flemme d'écrire des Moves et parce que je trouve que l'attrition de CDark fonctionne à merveille pour de l'horreur avec très peu de moyen.
 Ça m'a demandé pas mal de test, et pour tout dire mon système de résolution pour savoir si une Théorie est vraie ou non manque "d'élégance" à mon goût, mais bon. En gros :
 - On fait la Théorie et on liste les Indices qui s'y rattachent.
 - Ces Indices donnent un score, qui indique la "qualité" de la Théorie. Il y a trois "qualités", chacune rattachée à une échelle de réussite différente.
@@ -41,13 +62,13 @@ Oh well, il faut savoir se contenter de ce qui marche parfois.
 J'ai fini la maquette, les illustrations et les aides de jeux il y a quelques mois; j'ai fini de peaufiner les Affaires présentes dans le bouquin; et une bonne âme a fait la relecture et la correction d'une bonne moitié du jeu cette semaine. Des impressions tests sur Lulu ont été faites ces derniers mois aussi, pour les fans de bouquins, j'ai le trailer a finir de monter mais…
 Bha… 
 C'est bientôt fini. Ça pourra être publié et tout.
-Un beau bébé de plus de 130 pages : 20 pages pour les règles et conseils de jeux, 15 pages de conseils pour jouer en France et d'aides de jeux, et le reste pour les 9 Affaires. Fervent défenseur du minimalisme j'aurais aimé que ça tienne en 10 pages croyez-moi, mais je pense avoir mis ce qu'il faut pour mener ce jeu confortablement et c'est le principale.
+Un beau bébé de plus de 130 pages : 20 pages pour les règles et conseils de jeux, 15 pages de conseils pour jouer en France et d'aides de jeux, et le reste pour les 9 Affaires. Fervent défenseur du minimalisme j'aurais aimé que ça tienne en 10 pages croyez moi, mais je pense avoir mis ce qu'il faut pour mener ce jeu confortablement et c'est le principale.
 
 Et quand ce sera fini, et que ce sera en ligne, j'espère que le projet trouvera son public !
 Surtout que ça, c'est la base, mais j'ai des idées de règles pour jouer en Campagne, comment gérer une Campagne émergente. Et ce week-end je fais jouer 3 scénarios qui sont pas dans le bouquin. Donc c'est pas si fini que ça en vrai.
 Mais bon, chaque chose en son temps disons !
 
-♫ - Je suis retombé sur les albums de IAMX, et j'y trouve toujours quelque chose d'assez puissant et sombre, qui donne envie de faire des AMV tragiques ! Une parmis d'autres, "President" : https://www.youtube.com/watch?v=Z-VO9c8kJN0
+♫ - Je suis retombé sur les albums de IAMX, et j'y trouve toujours quelque chose d'assez puissant et sombre, qui donne envie de faire des AMV tragiques ! Une parmi d'autres, "President" : https://www.youtube.com/watch?v=Z-VO9c8kJN0
 ▶ - Si vous aimez les jeux-vidéos et les analyses complètes, la chaîne d'Esquive la Boule de Feu est une mine d'or, et en Français s'il vous plaît ! Ces derniers jours j'ai regardé toutes ses vidéos sur la série Thief, et j'ai même installé le premier qui pour le moment est très chouette et me donne espoir que peut-être j'arriverais aussi à jouer à Dishonored et son univers trop cool ! https://www.youtube.com/watch?v=wRMaj0o-BWk
 
 
@@ -194,4 +215,5 @@ Allez, on finit sur la seule petite folie possible, une image en ASCII, et à la
             ############                 
 
     Image en ASCII d'un dé sur le côté.
+
 
