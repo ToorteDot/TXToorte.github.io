@@ -7,12 +7,46 @@ Et si vous tenez absolument à savoir quand le projet est mis à jour, voilà le
 =====CHAPITRES=====
 Pour trouver une note, faites la recherche avec CTRL+F ou avec le menu ☰ Menu > ⌕ Trouver dans la Page.
 
-OUVERTURE - OLD MAN YELLS A THE CENSORS - CHÊNOMRE (devlog 1) - CE POST N'EST PAS VRAIMENT SUR LES LIBRAIRIES - LA SECTION - QUEERVENTION 2025
+OUVERTURE - OLD MAN YELLS A THE CENSORS - CHÊNOMRE (devlog 1) - CE POST N'EST PAS VRAIMENT SUR LES LIBRAIRIES - LA SECTION - QUEERVENTION 2025 - LE PROBLÈME DES JETS DE THÉORIE
 
 Recommandations JDR/JDS : ⚄ - Recommandations musicales : ♫ - Recommandations vidéos : ▶ - Recommandations autres : ☛
 
 ===========================================================================================================================================
 ===========================================================================================================================================
+
+LE PROBLÈME DES JETS DE THÉORIE - 01/09/25
+Il est 23:57, ça compte encore comme Lundi, et au pire la journée n'est pas finie tant que je suis pas allé me coucher. Tout comme le matin n'est pas fini tant que je n'ai pas pris mon petit déjeuner, qu'importe qu'il soit 15h !
+
+Le week-end dernier, en faisant jouer SR-A, j'ai eu l'occasion d'expliquer plusieurs fois la mécanique de la Théorie des Carved from Brindlewood (CfB) : les joueureuses inventent ce qui s'est passé, la "Théorie", soutiennent cette théorie avec des Indices collectés pendant le jeu, et la MJ fait un jet de dé, qui sera influencé par le nombre d'Indice rattaché à la Théorie, pour savoir si la Théorie est la bonne.
+Et, vous vous en doutez peut-être, ce jet de dé final pose beaucoup de questions !
+On peut diviser le problème en trois parties : le jet en lui-même, comment il est fait, et ce qu'il dit.
+
+Pour le jet en lui-même, Brindlewood bay est un PBTA à la base, et utilise donc 2d6 qu'on additionne. Ça donne l'avantage d'avoir une marge de résultat assez large, qui va de 2 à 12, et surtout une répartition en courbe toute jolie où la plus tard des jets vont donner un score de 7 ou 8, ce qui correspond à la réussite mitigée des PBTA. Et sachant qu'on obtient quelques bonus, on arrive vite dans la tranche des Réussites nettes des 10+.
+Dans SR-A, j'ai dû bidouiller, car j'utilise un système où on lance plusieurs d6 et on garde le meilleur. Je vous épargne les maths, mais dès 3d6 lancé on arrive très (trop vite) a beaucoup de 6. En fait, avec ce système, on a plus de chance de finir avec un 6 qu'on a de chances CUMULÉES d'obtenir 1, 2 ou 3. C'est pas rien.
+Pour contourner ça j'ai dû accepter qu'on lançait un unique d6, et que les Indices permettaient de modifier plutôt l'échelle de réussite : une première échelle, la "nulle", donne un échec critique de 1 à 3, une réussite mitigée de 4 à 5, et tout de même une réussite critique sur 6. Alors que les deux autres échelles de réussite permettent d'avoir des réussites franches et réduisent drastiquement le risque d'un échec critique.
+
+Pour comment il est fait, Brindlewood Bay et tous les jeux CfB, écrivent sur la feuille de personnage l'échelle de réussite et les conséquences possibles d'un jet. Et le jet de Théorie est visible par tout le monde. En d'autres termes, les joueureuses ont toutes les informations sur ce jet. Et souvent la fin d'un Brindlewood Bay ressemble assez à un épisode d'un Agatha Christie ou Columbo, avec les personnages qui expliquent qui est le coupable et la police qui arrive.
+Dans SR-A, non, vraiment pas : les échelles de réussites ne sont pas notés sur les feuilles de personnages, même si rien n'interdit à la MJ d'expliquer les arcanes du jet aux joueureuses; le jet de dé est fait en secret par la MJ; et enfin le jeu reprend ensuite pour laisser aux joueureuses l'occasion de régler le problème selon leur Théorie.
+Et ces différences font sens (en même temps c'est moi qui est fait ces choix là, j'allais pas vous dire le contraire…), car SR-A est un jeu d'horreur, et que je veux qu'une partie de la tension vienne de la question "A-t-on fait les bons choix ?".
+J'ai besoin que les joueureuses restent dans le noir à propos de la Théorie, et les laisser tuer un innocent ou se jeter dans la gueule du loup. Ou au moins les laisser craindre ces situations.
+
+Ce qui nous amène au cœur du problème, ce que ce jet "dit" : dans Brindlewood Bay, vous vous trompez uniquement sur un 6-, un jet relativement bas qu'il est rare d'avoir, d'autant plus que le jeu permet de dépenser une ressources, les Masques, pour améliorer son jet d'un cran, passant un 6- en 7+, une réussite mitigée. Et la réussite mitigée met les personnages en danger, plus qu'elle ne met en danger la véracité de la Théorie.
+Dans SR-A, pas de ressource à dépenser, et surtout beaucoup plus de risque d'avoir tout faux à sa Théorie.
+Et c'est là où tout le monde n'est pas d'accord et qu'il n'y pas de bonne réponse : certaines personnes vont détester faire une super Théorie mais avoir tort à cause d'un stupide jet de dés. Je connais pas mal de MJ qui partent du principe qu'une Théorie sera toujours au moins un peu vraie, pour éviter cette frustration. Et je comprends cette frustration, on a passé X heures à enquêter, dans le cas de Brindlewood Bay dire beaucoup de blagues, c'est détente, notre Théorie est super cohérente et fun, et puis non, "tout ça pour rien" à cause d'un jet de dés.
+Mais j'ai choisi, dans SR-A, de pousser le potard vraiment plus haut que dans les CfB, parce que comme dit précédemment c'est un jeu d'horreur. Et je pense d'ailleurs que faire le jet en secret augmente l'intérêt de pouvoir se tromper, puisqu'il renforce l'intention de jeu "vous êtes des gens qui font ce qu'iels peuvent face à des évènements qui les dépassent totalement". Si le jet était visible, il faudrait un groupe de narrativistes ou pire, de drogué du free-form, pour se réjouir d'une fin aussi amère et en faire quelque chose de fun à la table ! (En vrai non, bien sûr, tous les groupes peuvent s'amuser avec l'échec, mais certaines pilules sont plus difficiles à avaler que d'autre, vous m'avez compris)
+
+La Théorie des Brindlewood Bay est un sujet super intéressant de design, et qu'il pose un problème qu'aucun choix de règle ne pourra vraiment résoudre, que ce soit purement une question de goût et de "posture de jeu", ça me réjouit d'autant plus !
+
+♫ - Cette semaine Joey Glüten, Changelin·e et Graphy-T ont sortie des nouveaux sons, et ça en faisait déjà une très bonne semaine, mais Théa s'est joint à la danse et a sortit un gros B4Ng3R comme on dit, avec "h4rdr0ck3r" : ttps://www.youtube.com/watch?v=zhPNV2sCRhs
+▶ - Je découvre la série "Copaganda" de la chaîne YT Skip the Intro. Dans cette série de vidéo, on nous parle des séries policières, comment elles sont devenues un outil de propagande pro-flic, et tout est très très intéressant surtout pour un gauchiste fan de ce genre de série. Je vous conseille un peu tout, mais je vous dirigerai vers l'épisode sur Veronica Mars, et comment cette série reprend les codes de la série de flic tout en étant très ouvertement anti-flic et avec une critique sociale très présente. C'est un chouette exemple pour cogiter aux façons dont nos univers de fictions influencent le monde, et donc une bonne façon de peut-être s'en écarter pour représenter nos valeurs réelles : https://www.youtube.com/watch?v=AZTD23jaeVo
+▶ - Et ce soir j'ai vu le film "Thursday Murder Club" sur Netflix, où des petits vieux enquêtent sur des meurtres, qui a une énorme vibe Brindlewood Bay et qui est plutôt chouette.
+Mais j'ai envie de râler sur la fin, que je trouve un peu bof et surtout problématique, donc je vais SPOILER dans… 
+3, 2, 1…
+Spoiler pour Thursday Murder Club : déjà un des meurtres a été commis en "self defense" par le gentil travailleur immigré, qu'on envoie en taule et qui va surement y passer un sale moment vu la politique assez raciste en Angleterre. L'autre meurtre a été commis pour des raisons très cons : le vieux crime qu'on essaie de cacher date des années 70, donc tout le monde s'en fout et y a des chances qu'il ai dépassé le délai de prescription, et en plus la coupable est dans un foutu coma. Franchement, y avait pas à s'embêter.
+Mais surtouuuut, on en parles de ces "héros" qui laissent un mec se suicider ET tuer sa femme alors qu'ils auraient juste pu… Ne rien dire à la police. Ou, je sais pas, empêcher leur pote de se suicider et buter sa femme avec lui ?? Et le film qui nous parle d'acte d'amour et essaie de faire passer ça pour un acte de dévotion là. C'est à minima de très mauvais goût.
+Le film commence sur avec un féminicide et finit avec un autre, avec un petit zeste d'handiphobie vu que tout le monde se fout de ce qu'aurait voulu la meuf handicapée.
+C'est con, parce que le film, malgré ses facilités, était plutôt sympa.
+
 
 QUEERVENTION 2025 - 28/08/25
 Comme prévu, j'ai passé le weekend à la convention rôliste et queer de Rennes, et c'était fort bien !
@@ -215,5 +249,4 @@ Allez, on finit sur la seule petite folie possible, une image en ASCII, et à la
             ############                 
 
     Image en ASCII d'un dé sur le côté.
-
 
