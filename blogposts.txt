@@ -7,13 +7,51 @@ Et si vous tenez absolument à savoir quand le projet est mis à jour, voilà le
 =====CHAPITRES=====
 Pour trouver une note, faites la recherche avec CTRL+F ou avec le menu ☰ Menu > ⌕ Trouver dans la Page.
 
-OUVERTURE - OLD MAN YELLS AT THE CENSORS - CHÊNOMBRE (devlog 1) - CE POST N'EST PAS VRAIMENT SUR LES LIBRAIRIES - LA SECTION - QUEERVENTION 2025 - LE PROBLÈME DES JETS DE THÉORIE - LUNDI RIEN
+OUVERTURE - OLD MAN YELLS AT THE CENSORS - CHÊNOMBRE (devlog 1) - CE POST N'EST PAS VRAIMENT SUR LES LIBRAIRIES - LA SECTION (présentation) - QUEERVENTION 2025 - LE PROBLÈME DES JETS DE THÉORIE - LUNDI RIEN - CORRECTION, ACAB, ET ENCORE LA THEORIE -
 
 Recommandations JDR/JDS : ⚄ - Recommandations musicales : ♫ - Recommandations vidéos : ▶ - Recommandations autres : ☛
 
 ===========================================================================================================================================
 ===========================================================================================================================================
 
+CORRECTION, ACAB, ET ENCORE LA THEORIE - 15/09/25
+La correction de SR-A est en bonne voie, mais là où j'espérais que 2/3 sessions suffiraient, on est tombé sur deux chapitres qui nous ont pris pas mal de temps, chacun à leur façon : le chapitre sur les forces de l'ordre, et la double page sur la Théorie.
+
+Pour les forces de l'ordre, le problème est assez simple : c'est un passage relativement chiant.
+J'y présente les missions de la police nationale, municipale, de la gendarmerie et de l'armée ; les grades qu'on y utilise ; et surtout le matériel un peu standard pour chaque groupe. Alors ça tient sur une seule page, mais qu'est-ce que c'est pas passionnant. Et d'ailleurs ma correctrice m'a un peu demandé si on avait besoin de toutes ces précisions sur l'équipement par exemple, surtout dans un jeu qui deux pages avant expliquait que "la précision et le réalisme devait être sacrifié pour une bonne histoire si nécessaire" (en gros).
+Ces passages d'info-dump sur la police et autres compagnons du respect du droit de manifester est présent parce que, justement, c'est chiant : j'ai dû faire un paquet de recherche pour comprendre un peu comment tout ça fonctionne, qui est rattaché à quoi, quel matériel, les grades, etc, et j'ai envie d'épargner les MJ des recherches fastidieuses.
+Et j'ai envie que les MJ puissent mettre en scène les forces de l'ordre dans leur partie, pour jouer avec la hiérarchie et la bureaucratie, sous-entendre l'identité d'un tireur par le type d'arme qu'il utilise, ou simplement rajouter un peu de crédibilité en utilisant les bons grades.
+C'est sûrement un héritage de Delta Green, qui peut être assez précis vis à vis de l'équipement et des imbroglios gouvernementaux, et peut-être que ça se justifie moins dans un jeu beaucoup plus émergent que SR-A, avec des personnages moins haut gradé, etc, mais je n'ai jamais trouvé ce genre de résumé vis à vis des forces de l'ordre française alors bon.
+(et rassures toi, chère correctrice, il nous reste la super page à propos de toutes les autres organisations gouvernementales à corriger, qui sera un pur bonheur à n'en pas douter !)
+
+Pour la Théorie, c'est le chapitre qui explique ce qu'est une Théorie, comment mener ce moment, comment les règles fonctionnent et quoi qu'on fait après.
+C'est un très gros morceau des règles, en fait, vu que c'est ce qui fait la spécificité des Carved from Brindlewood.
+Et donc on avait déjà fait un premier passage de réécriture, mais en relisant la dernière fois on n'était pas encore satisfait. Je ne saurais pas tout à fait vous détailler les réécritures qu'il y a eu, mais une bonne partie à consister à déplacer des bouts de règles à d'autres moments des explications, avant ou après, pour que la lecture et la compréhension soient plus fluide.
+Faut avouer que ma version de la Théorie, qui demande d'abord de calculer un score qui vous indique quel résultat lire, manque d'épure mais c'est la meilleure solution que j'ai trouvé pour équilibrer ce moment. Il faut savoir faire des concessions disons.
+Ca a aussi confirmé quelques simplifications de la formule de base des CfB : j'ai laissé tombé la Difficulté qui impose un nombre d'Indice minimum avant de faire le jet, tout simplement parce que si vous jouez à ce jeu, c'est que vous voulez jouer à ce jeu, et donc j'ai pas à vous mettre une barrière de ce genre. Et vous avez envie de faire votre test de Théorie avec un seul Indice ? Bha allez-y, vous êtes juste au courant que vous allez surement vous foirer magistralement et ce sera rigolo !
+Et ça fait écho avec une simplification que j'avais faite avant vis-à-vis des deux réponses possibles aux Affaires : soit il y a du surnaturel, soit pas. Avant, la réponse sans surnaturel était plus difficile, parce que j'avais envie que la plupart des Affaires aient du surnaturel dedans, mais ça posait des problèmes. En fait, si l'option sans surnaturel est plus simple, on risque d'avoir plus d'Affaire sans et on risque d'avoir une sensation de "Scooby Doo" vite ridicule. De l'autre, si l'option sans surnaturel est plus dure, non seulement on est découragé de l'utiliser en plus qu'elle soit un peu "chiante", mais en plus on doit récolter plus d'Indice et donc faire durer la partie et donc donner encore plus d'occasion à la MJ de mettre du surnaturel dans la partie.
+Alors j'ai décidé de faire une difficulté unique par Affaire. Ca n'a rien d'un coup de génie, mais c'est un entre-deux satisfaisant je trouve, qui donne la même opportunité aux deux options et donc plus de choix aux joueureuses.
+
+Pour conclure, je dirais que si vous avez l'occasion de faire relire votre jeu, faites-le. C'est un peu une évidence, mais avoir quelqu'un qui découvre les règles et l'univers comme le ferait un·e lecteur·ice permet de clarifier beaucoup de choses et vous force à réfléchir à ce que vous avez voulu dire. C'est un peu frustrant, forcément, surtout quand vous avez passé plusieurs années sur votre projet et avez hâte de le sortir mais bon !
+On veut pas simplement se débarrasser du jeu, mais surtout qu'il arrive dans le meilleur état possible pour les joueureuses. Alors ça prendra les sessions de relecture nécessaire. (Allez, espérons qu'à coup de 2 sessions par semaine, dans moins de deux semaines ce sera bouclé !)
+
+♫ - Pour écouter ma musique sur YT, j'ai fini par utiliser un navigateur téléphone qui bloque les pubs et c'est bien plus agréable. Mais ça permet aussi, visiblement, de casser un peu l'affichage de YT et donc de voir les musiques dans votre playlist qui ont été bloquées (et non pas supprimées). J'ai donc pu faire un peu de remplacement, et suis retombé avec joie sur ce groupe dont les musiques étaient toutes bloquées. C'est du rock, peut-être un peu punk, assez calme, qui n'a jamais décollé je crois mais dont j'aime beaucoup les musiques. 
+Shoe - "Evie" : https://youtu.be/pU6cMXdp1BI?si=PXkyz_UFC9DMKvsF
+☛ - J'ai fini de lire le tome 2 de Scholomance, écrit par Naomi Novik, et c'est très bien. On y suit Galadriel, adolescente qui sur-réfléchit à tout et qui déteste un peu tout le monde, qui est élève à la Scholomance, une sorte de Poudlard de l'enfer, sans aucun professeur, où les étudiants sont livrés à eux-mêmes dans des couloirs pouvant cacher des monstres qui veulent les bouffer, et où on se tire dans les pattes et on fait des plans pour copiner avec les richous et espérer avoir une place dans leurs cités dorées.
+Ça parle de lutte des classes hein, on va pas se mentir, d'entraide, de destinée… L'univers est intéressant, et heureusement parce qu'on suit autant les aventures du personnage principal que les explications sur l'école, la magie, le fonctionnement de tout ça. C'est aussi assez lourd à lire, mais je soupçonne la traduction française d'être en faute, et j'essaierais de lire le tome 3 en anglais pour voir.
+Bref, si vous aimez Harry Potter mais préférez votre magie sans transphobie et racisme, Scholomance sonne comme une réponse, sans être une parodie ou une bête inversion, en abordant la sexualité dans l'école, avec un cast varié et des enjeux politiques.
+Curieux de lire le dernier tome !
+Naomi Novik "Scholomance", traduit en français chez J'ai Lu.
+
+
+LUNDI RIEN - 08/09/25
+Aujourd'hui, seulement quelques partages. (et non, ça n'a rien à voir avec Silk Song malheureusement…)
+♫ - J'aime beaucoup les musiques du groupe Crystal Castles, malheureusement moins l'histoire glauque derrière, à savoir Ethan Kath, musicien dans le groupe, qui a abusé la chanteuse, Alice Glass, (il a 25 ans et elle 15 ans quand ils commencent à travailler ensemble…) de multiple façon.
+"This is why we can't have nice things", les mecs qui se permettent d'être des ordures.
+Cette base étant posée, je vous conseille tout de même "Kept", qui est en fait un morceau théoriquement inédit aux CD et qui donc se fait constamment striker sur YouTube. Et donc, les gens qui écoutent leur musique sur YT, comme moi, sont "réduit" à choisir leur remix préféré plutôt qu'avoir le morceau original.
+Et pour moi, c'est celui de Cecyl., "KEPT (cecyl. REMIX)" : https://www.youtube.com/watch?v=cDqlyYoZMr0
+▶ - Une très chouette série de vidéos, plutôt courtes, qui retrace comment chaque console de jeu vidéo a été hackée ! A part le ton du vidéaste parfois un peu trop mélioratif vis à vis des constructeurs, c'est quand même passionnant de voir le taff de la commu, les trahisons, les coups de chances, et de constater que oui "l'existence du train implique forcément l'existence du déraillement", qu'importe les sécurités qu'on met. 
+Sakharu - "Comment un jeu abandonné a fait tomber la sécurité de la 3DS" : https://youtu.be/0yQHhkvahVM?si=1tHSBbepJTnrTbKE
 
 LUNDI RIEN - 08/09/25
 Aujourd'hui, seulement quelques partages. (et non, ça n'a rien à voir avec Silk Song malheureusement…)
@@ -260,4 +298,5 @@ Allez, on finit sur la seule petite folie possible, une image en ASCII, et à la
             ############                 
 
     Image en ASCII d'un dé sur le côté.
+
 
