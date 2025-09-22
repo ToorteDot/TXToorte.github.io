@@ -7,12 +7,67 @@ Et si vous tenez absolument à savoir quand le projet est mis à jour, voilà le
 =====CHAPITRES=====
 Pour trouver une note, faites la recherche avec CTRL+F ou avec le menu ☰ Menu > ⌕ Trouver dans la Page.
 
-OUVERTURE - OLD MAN YELLS AT THE CENSORS - CHÊNOMBRE (devlog 1) - CE POST N'EST PAS VRAIMENT SUR LES LIBRAIRIES - LA SECTION (présentation) - QUEERVENTION 2025 - LE PROBLÈME DES JETS DE THÉORIE - LUNDI RIEN - CORRECTION, ACAB, ET ENCORE LA THEORIE -
+OUVERTURE - OLD MAN YELLS AT THE CENSORS - CHÊNOMBRE (devlog 1) - CE POST N'EST PAS VRAIMENT SUR LES LIBRAIRIES - LA SECTION (présentation) - QUEERVENTION 2025 - LE PROBLÈME DES JETS DE THÉORIE - LUNDI RIEN - CORRECTION, ACAB, ET ENCORE LA THEORIE - MOINS DE DES DANS MON JDR ?! -
 
 Recommandations JDR/JDS : ⚄ - Recommandations musicales : ♫ - Recommandations vidéos : ▶ - Recommandations autres : ☛
 
 ===========================================================================================================================================
 ===========================================================================================================================================
+
+MOINS DE DES DANS MON JDR ?! - 22/09/25
+
+Avant de commencer cette note, une petite annonce : le financement participatif de la VF de Brindlewood Bay V2 commencera dans 2 semaines et vous pouvez déjà vous inscrire pour être informé au moment opportun ! C'est un jeu trop cool, l'équipe qui va s'occuper du projet est cool, donc trop cool quoi : https://www.gameontabletop.com/cf5531/brindlewood-bay.html
+
+Section Recherches - ARTEFACTS n'est pas encore sortie, mais pourquoi pas discuter un peu de hacker ce jeu ? Après tout, personne ne peut m'arrêter…
+Y a quelque temps j'ai pu jouer à ALTERATION, le Carved from Brindlewood écrit par l'ami JB reprenant des univers façon Stalker et La Trilogie du Rempart Sud (Annihilation, Autorité, Acceptation), et qui va dans un sens assez intéressant : vachement pas beaucoup de jet de dés. Et j'ai cru comprendre que Môssieur Nico le Vif taff aussi sur un CfB avec vachement pas beaucoup de jet de dés.
+Et dans les faits, même si je ne suis pas tout à fait fan de cette approche (j'aime trop mes dés, chacun notre petit côté conservateur écoutez…), ça sonne comme un évolution toute naturelle des PBTA et donc des CFB, et on avait déjà des choses comme les Firebrands où le jet de dés est remplacé par des listes ou je ne sais quoi.
+Un exemple tiré d'ALTERATION : 
+
+║ METTRE A l'EPREUVE UNE OBSERVATION
+║ Lorsque vous souhaitez approfondir une Observation, choisissez :
+║ • Demandez de l'aide à une autre Itération et offrez quelque chose en échange. Collaborez 
+║	pour ajouter un détail à l'Observation.
+║ • Agissez seule et ajoutez un détail à l'Observation. Pourquoi ce détail a t-il échappé aux 
+║	autres Itérations ? Qui aurait pu avoir un intérêt à le garder discret ?
+
+Concrètement, enlever les dés consiste à donner un choix intéressant aux joueureuses, et leur laisser encore plus de contrôle sur où va l'histoire, ce que faisaient déjà les PBTA et encore plus les CfB avec la réponse au mystère.
+Au lieu de laisser les dés trancher, il faut donner des options "typées", bien distinctes, avec des conséquences intéressantes. Et les PBTA le font déjà pas mal, avec leurs listes et leurs complications déjà prévues, d'où le fait que ce soit de bons clients pour l'exercice. Par exemple le move classique "Garder son sang froid", qu'on trouve dans pas mal de jeux du genre peut devenir :
+
+║ GARDER SON SANG FROID
+║ Quand vous gardez votre sang-froid et agissez malgré la peur, nommez ce qui 
+║ devrait vous effrayer. La MJ vous dit comment ça pourrait être pire.
+║ • Réussissez, et la MJ vous inflige une Condition.
+║ • Réussissez brillamment ou obtenez des informations supplémentaires, mais 
+║ 	les choses empirent.
+║ • Echouez et obtenez une information supplémentaire ou attirez l'attention 
+║ 	sur vous.
+
+Bon c'est fait sur le vif, mais vous avez l'idée !
+Et du coup, le plus intéressant je trouve, c'est comment cette approche raccroche avec nos problématiques déjà abordées du CfB : le test de Théorie ! Hé oui, sans dés, on se débarrasse de la partie frustrante de l'aléatoire et on embrasse complètement le jeu en "auteurice", où les PJ ont beaucoup de contrôle sur le scénario.
+Pour ALTERATION, si vous utilisez autant ou moins d'Indice que la difficulté du scénario, vous allez rencontrer l'Anomalie du secteur et il va se passer un truc pas cool. Et si vous utilisez plus d'Indice que la difficulté, il va se passer un truc cool. En gros.
+Personnellement, en voyant ça, j'ai direct pensé à The Between et ses Opportunités. Dans ce CfB, vous avez plusieurs approches pour résoudre un mystère : généralement une approche bourrine, qui est dangereuse mais a une difficulté très faible; et une approche plus fine, où on veut comprendre la créature, qui permettra de l'appâter ou que sais-je, qui est donc plus difficile mais avantage les personnages.
+Appliquée à SR-A, je pense que ça donnerait quelque chose comme ça : 
+
+║ FAIRE UNE THEORIE
+║ Lorsque vous voulez utiliser vos Indices pour répondre à la Question de 
+║ l'Affaire et savoir comment résoudre le problème :
+║ • Approche sans surnaturel (Difficulté standard) : la Section n'a pas à 
+║ 	être impliquée dans tout ça, il vous reste donc à cacher vos traces 
+║ 	et repartir discrètement…
+║ • Approche risquée (Difficulté standard) : il y a bien du surnaturel, mais 
+║ 	le danger va se révéler plus grand que prévu.
+║ • Approche prudente (Difficulté élevée) : il y a bien du surnaturel, et 
+║ 	vous avez découvert quelque chose qui vous aidera beaucoup. 
+
+Après, à définir à qui va l'autorité narrative : dans ALTERATION ce sont les joueureuses qui racontent ensemble la scène, positive ou négative, mais on pourrait imaginer que les joueureuses suggèrent des idées et que la MJ reprend la main ensuite par exemple. A voir où vous avez envie de mettre votre curseur "PJ auteurice", narration partagée, et ce qui vous semble fun. Personnellement, donner du pouvoir au MJ me semble toujours intéressant pour créer la surprise, surtout en cas de jeu d'horreur, mais c'est une question de goût.
+
+Sur-ce, je vous laisse sur ces réflexions et je m'empresse d'aller jouer à Silk Song !
+
+♫ - Dans les musiques redécouvertes dans ma playlist, je demande de l'électro tristou avec une très jolie voix féminine, et je vous donne donc Tallisker "Blind" : https://youtu.be/Zu5BEZM0W9o?si=6bXMNKL4jpPGhvm3
+⚄ - Une version en cours de développement d'ALTERATION est dispo par-là et c'est très cool : http://notes.black-lodge.de/share/75vjIGL9r5bl
+⚄ - On a parlé de jeux Firebrands, alors voilà le jeu original traduit en Français par quelques braves gens : https://www.firebrands.fr/
+Et surtout voilà "Cuck Tent Game", un jeu inspiré de cette scène de Twilight, où on va jouer un·e vampire, un·e loup-garou et un·e humain·e vont se retrouver bloquer dans une tente et vont devoir causer de pleins de trucs personnels et romantique. Ca tient sur une page et c'est surement le hack le plus clair sur le format "Firebrands" que vous trouverez dans le coin :   https://egbower.itch.io/cuck-tent-game
+
 
 CORRECTION, ACAB, ET ENCORE LA THEORIE - 15/09/25
 La correction de SR-A est en bonne voie, mais là où j'espérais que 2/3 sessions suffiraient, on est tombé sur deux chapitres qui nous ont pris pas mal de temps, chacun à leur façon : le chapitre sur les forces de l'ordre, et la double page sur la Théorie.
@@ -298,5 +353,6 @@ Allez, on finit sur la seule petite folie possible, une image en ASCII, et à la
             ############                 
 
     Image en ASCII d'un dé sur le côté.
+
 
 
