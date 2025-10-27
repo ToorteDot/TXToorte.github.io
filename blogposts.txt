@@ -7,12 +7,105 @@ Et si vous tenez absolument à savoir quand le projet est mis à jour, voilà le
 =====CHAPITRES=====
 Pour trouver une note, faites la recherche avec CTRL+F ou avec le menu ☰ Menu > ⌕ Trouver dans la Page.
 
-OUVERTURE - OLD MAN YELLS AT THE CENSORS - CHÊNOMBRE (devlog 1) - CE POST N'EST PAS VRAIMENT SUR LES LIBRAIRIES - LA SECTION (présentation) - QUEERVENTION 2025 - LE PROBLÈME DES JETS DE THÉORIE - LUNDI RIEN - CORRECTION, ACAB, ET ENCORE LA THEORIE - MOINS DE DES DANS MON JDR ?! - TOUJOURS MOINS DE DES - BRINDLEWOOD BAY BABY ! - CHRONIQUE DE SINDALE (MonsterHearts) -
+OUVERTURE - OLD MAN YELLS AT THE CENSORS - CHÊNOMBRE (devlog 1) - CE POST N'EST PAS VRAIMENT SUR LES LIBRAIRIES - LA SECTION (présentation) - QUEERVENTION 2025 - LE PROBLÈME DES JETS DE THÉORIE - LUNDI RIEN - CORRECTION, ACAB, ET ENCORE LA THEORIE - MOINS DE DES DANS MON JDR ?! - TOUJOURS MOINS DE DES - BRINDLEWOOD BAY BABY ! - CHRONIQUE DE SINDALE (MonsterHearts) - VAMPIRE V5 (Session 0) -
 
 Recommandations JDR/JDS : ⚄ - Recommandations musicales : ♫ - Recommandations vidéos : ▶ - Recommandations autres : ☛
 
 ===========================================================================================================================================
 ===========================================================================================================================================
+
+VAMPIRE V5 (session 0) - 27/10/25
+En ce moment je prépare une campagne de Vampire la Mascarade V5 pour mon groupe qui sort de MonsterHearts. Je me suis dit que niveau vibes on s'éloignait pas trop.
+La semaine prochaine je reviendrai un peu plus sur VtM V5 et mon "avis de lecture" disons, pour l'instant j'ai juste envie de vous présenter comment j'ai géré la session 0 avec un groupe de PJ qui ne connaissent pas du tout le jeu ni son univers.
+La structure a été : 1) Blabla de présentation, 2) Courte partie de For the Queen, 3) Questionnaire, 4) Concepts de persos et de Coterie.
+Ca nous a pris 3h et quelques.
+
+1) Présentation.
+Bon, pendant une heure j'ai papoté un peu tout seul, en présentant les grands éléments de l'univers. Les Vampires, la Mascarade, les aspects horrifiques, les aspects politiques, les thématiques du jeu, les thématiques et aspects que j'ai envie d'explorer dans notre campagne, etc.
+J'aurais bien aimé faire un CATS (Concept, Aim, Tone, Subjects) mais j'en ai jamais écrit et j'ai pas trouvé ça très évident pour un jeu de cette taille, donc tant pis.
+J'ai aussi été un peu aidé par une des joueuses qui avaient fait une campagne de Vampire où on était tous les deux PJ, et même si elle avait pas tellement de souvenir de l'univers, elle m'a un peu aiguillé sur certains aspects importants du jeu que j'aurais pu un peu skippé.
+Avec les questions diverses, je pense qu'on a passé plus d'1h sur cette partie.
+
+2) Pour la Reine Vampire
+C'était un test, et j'ai trouvé ça très cool et je le referais surement : pour les aider à un peu "mettre en pratique" et pour me donner des occasions de parler d'éléments du jeu de façon un peu plus concrète, je leur ai proposé qu'on joue ensemble à Pour la Reine en mode "nous accompagnons une Reine Vampire en mission diplomatique".
+Pour celleux qui ne connaissent pas les excellents jeux For the Story/Descended from the Queen, ce sont des jdr narratifs très simple : on pose un cadre assez léger, et à son tour de jeu on tire une carte avec une question orientée (comme "Pourquoi avez-vous pardonné à la Reine la dernière fois qu'elle vous a blessé ?"), on y répond à voix hautes, les autres peuvent nous poser des questions sur ce qu'on a dit, et ensuite le joueur suivant pioche une carte et ainsi de suite. C'est purement de la narration émergente, on construit nos personnages au fur et à mesure, c'est très accessible mangez-en !
+Ca nous a pris une petite heure bien chouette, tout le monde a utilisé ce que j'avais présenté de l'univers pour construire ses réponses, et moi j'ai pu faire un peu name-dropping de divers Clans et Disciplines, expliquer quelques questions pratiques, etc. C'était vraiment une chouette mise en situation, et je suis sûr que ça les a aidé à s'approprier un peu l'univers et qu'iels se rappeleront mieux de ma présentation comme ça.
+C'était aussi important pour moi car on a un nouveau joueur dans le groupe, et même si la plupart se connaissent au moins de vu, je voulais inclure ce nouvel arrivant dans le groupe. Proposer une partie courte d'un jeu d'impros comme ça, c'était une bonne façon de créer un peu de lien, de voir comment les un·es les autres jouent, etc.
+J'imagine qu'on a pris un bon 3/4 d'heures pour tout ça.
+
+3) Questionnaire
+Vampire est un univers dense, avec BEAUCOUP de possibilités, et donc je ne me voyais pas me lancer dans une campagne sans savoir un peu ce qui intéressait mes PJ.
+Je n'ai pas réussi à trouver le questionnaire "type de jeu" que j'avais en tête. Du coup, au lieu d'aller chercher le disque dur où je suis sûr avoir enregistré ce document à une époque, j'en ai réécrit un. Chacun sa flemme.
+Ce n'est pas parfait, mais ça couvre pas mal de choses, et le débrief du questionnaire nous a permis de papoter des attentes de tout le monde et, encore une fois, que le groupe commence à avoir une vision "de groupe". 
+Je vous reproduis le questionnaire ici :
+
+║ 
+║ TYPE DE JEU : classez de 1 à 9, de vos préférés à ce que vous aimez le moins. Des ex-aequo sont possibles.
+║ - Action, combat
+║ - Interaction social, Drama
+║ - Romance
+║ - Mystère, enquête
+║ - Exploration, voyage
+║ - Politique, lore complexe
+║ - Cozy, vie quotidienne
+║ - Humour
+║ - Puzzles, problème logique
+║ 
+║ TYPE DE SCENARIO : classez de 1 à 10, de vos préférés à ce que vous aimez le moins. Des ex-aequo sont possibles.
+║ - Exploration (donjon, bâtiment, nature…)
+║ - Action fun
+║ - Horreur, pour faire peur
+║ - Romance
+║ - Cambriolage, infiltration (planification, discrétion, etc…)
+║ - Intrigue politique
+║ - Enquête
+║ - Survie, gestion
+║ - Revanche, compétition (contre un groupe de PNJ ou d'autres PJ)
+║ - "Monster of the Week"
+║ 
+║ JE PREFERE DES COMBATS PLUTÔT… (choisissez 1)
+║ - Tactique
+║ - Narratif
+║ - Absent au possible
+║ 
+║ LE "JOUEUR CONTRE JOUEUR" C'EST PLUTÔT… (choisissez 1)
+║ - Très cool
+║ - Rien contre
+║ - Pas envie
+║ 
+║ J'AIME COMPRENDRE D'UN JEU ET LES EXPLOITER… (choisissez 1)
+║ - Beaucoup
+║ - De temps en temps
+║ - Ca me fait plutôt gentiment chier
+║ 
+║ UN BON SCENARIO C'EST UN SCENARIO… (plusieurs choix possibles)
+║ - Très présent et très prévu, avec pleins de rebondissements
+║ - Très présent mais où on est très libre
+║ - Plutôt ouvert, avec des side-quest et tout (on fait des pauses dans le scénario principal et on y revient)
+║ - Episodique, avec des petites "missions" à chaque épisode, sans gros fil rouge
+║ - Centré autour des personnages plutôt que du monde
+║ 
+
+(On a débriefé ensemble que des deux premières listes, par soucis de temps et le reste étant plus des infos pour moi.)
+Ca fait ressortir que tout le monde a mis "TAPER DES TRUCS" très haut dans sa liste ce qui m'a bien fait rire, et qu'un seul joueur était intéressé par la politique, alors que les autres avaient pas trop envie par "peur" de rien y comprendre et aussi d'être bloqué par les trop grandes possibilités et implications d'un tel choix.
+J'ai pu le rassurer qu'il aurait l'occasion de creuser tout ça, et que surement ça amènera son groupe à être "dans la sauce" à un moment ou à un autre, et que ce sera bien marrant !
+Cette partie nous a pris 3/4 d'heures.
+
+4) Concepts de persos et de coterie
+Dans le petit temps restant, on a repris le document que je leur avais déjà envoyé qui résumait les Clans, et on a réfléchi ensemble à ce qui pourrait les intéresser au vu de ce qu'on avait dit, je les ai peu orienté en fonction des envies qui étaient ressortir, etc. On a aussi parlé de la Coterie, comment iels voudraient être liés, et à priori on partirait plutôt sur un groupe d'Anarch gérant un lieu un peu communautaire.
+On n'est pas allé très loin dans tout ça, je voulais juste que tout le monde reparte avec un début d'idée pour son perso et puisse y réfléchir plus tard.
+
+Vous remarquerez que le système de jeu est absent de tout ça, car je préfère attendre qu'on s'attaque à la création de personnage. Mon groupe, et moi-même, sommes pas les plus "rompus" aux systèmes de jeu un peu costaud comme VtM, et pas une concentration incroyable, donc je préfère avoir un support pour parler de tout ça, que ce soit concret.
+On a donc rendez-vous le mois prochain pour faire la suite de cette Session 0, à savoir la création de personnage, leur Coterie et leur place dans l'univers, et donc le système de jeu.
+Très très hâte de voir ce que cette bande de sangsue va apporter, ça sera sans doute très cool !
+
+♫ - Halloween ne finit jamais, alors voilà un super mix un peu spooky d'une chaine que j'aime bien. Le format est toujours le même : un·e DJ mix, face caméra, et les gens derrière sont sapés et dansent. T'a l'impression d'être dans une soirée de cool-kid sans avoir à sortir de chez toi, et avec des supers sons en prime.
+Darkwave & Goth Rock Mix in a Brooklyn Warehouse | Jojo Lorenzo : https://www.youtube.com/watch?v=m9U8rppygmU
+▶ - Une vidéo rigolote sur la caféine, où on apprend que le plus bizarre ce n'est pas que la caféine soit produites par tout pleins de plantes différentes qui n'ont aucun lien entre elle, et où on peut aussi voir le taux de caféine monter un peu trop chez le présentateur à un moment.
+"Caffeine is Very, Very Strange..." sur la chaine vlogbrothers, par Hank Green - https://www.youtube.com/watch?v=p-Dy2pcdBSU
+▶ - Et une autre curiosité (qui inspire un peu pour du Magnus Archive), sur la chaîne de Chris Spargo, et tout est dans le titre : "Why does Britain’s mapping agency have a box of spiders ?"
+https://www.youtube.com/watch?v=DNJM7OiqoCI&list=WL&index=18
+
 
 CHRONIQUE DE SINDALE (MonsterHearts) - 20/10/25
 Aujourd'hui c'est lundi (non c'est faux, on est samedi, mais faites comme si (enfin pour vous si, donc vous avez pas à faire comme si quoi que ce soit (enfin vous pouvez lire le jour où vous voulez en fait, donc heu faites bien comme vous voulez. (voilà))))
@@ -479,6 +572,7 @@ Allez, on finit sur la seule petite folie possible, une image en ASCII, et à la
             ############                 
 
     Image en ASCII d'un dé sur le côté.
+
 
 
 
