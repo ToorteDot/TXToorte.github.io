@@ -537,7 +537,7 @@ Et pour la partie fun de tout ça, quelques recommandations diverses :
 
 
 OUVERTURE - 24/07/25
-Le site est totalement inspiré du trop cool : https://minim.blog/posts.txt
+Le site est totalement inspiré du trop cool : https://minim.blog/posts.txt (maintenant inacessible)
 Et tourne avec Github Pages. Si vous voulez faire de même, tout est visible ici : https://github.com/ToorteDot/TXToorte.github.io
 
 L'idée c'est d'avoir un coin à soi sur l'internet, et pouvoir partager mes idées et mes réflexions quelque part de centralisé.
@@ -572,6 +572,7 @@ Allez, on finit sur la seule petite folie possible, une image en ASCII, et à la
             ############                 
 
     Image en ASCII d'un dé sur le côté.
+
 
 
 
