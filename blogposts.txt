@@ -7,12 +7,133 @@ Et si vous tenez absolument à savoir quand le projet est mis à jour, voilà le
 =====CHAPITRES=====
 Pour trouver une note, faites la recherche avec CTRL+F ou avec le menu ☰ Menu > ⌕ Trouver dans la Page.
 
-OUVERTURE - OLD MAN YELLS AT THE CENSORS - CHÊNOMBRE (devlog 1) - CE POST N'EST PAS VRAIMENT SUR LES LIBRAIRIES - LA SECTION (présentation) - QUEERVENTION 2025 - LE PROBLÈME DES JETS DE THÉORIE - LUNDI RIEN - CORRECTION, ACAB, ET ENCORE LA THEORIE - MOINS DE DES DANS MON JDR ?! - TOUJOURS MOINS DE DES - BRINDLEWOOD BAY BABY ! - CHRONIQUE DE SINDALE (MonsterHearts) - VAMPIRE V5 (Session 0) -
+OUVERTURE - OLD MAN YELLS AT THE CENSORS - CHÊNOMBRE (devlog 1) - CE POST N'EST PAS VRAIMENT SUR LES LIBRAIRIES - LA SECTION (présentation) - QUEERVENTION 2025 - LE PROBLÈME DES JETS DE THÉORIE - LUNDI RIEN - CORRECTION, ACAB, ET ENCORE LA THEORIE - MOINS DE DES DANS MON JDR ?! - TOUJOURS MOINS DE DES - BRINDLEWOOD BAY BABY ! - CHRONIQUE DE SINDALE (MonsterHearts) - VAMPIRE V5 (Session 0) - VAMPIRES AND MONSTERS (Compte-rendu)
 
 Recommandations JDR/JDS : ⚄ - Recommandations musicales : ♫ - Recommandations vidéos : ▶ - Recommandations autres : ☛
 
 ===========================================================================================================================================
 ===========================================================================================================================================
+
+VAMPIRES AND MONSTERS (compte-rendu) - 05/11/25
+J'ai joué hier et je veux en PARLER ! Alors bonjour :)
+En vue de ma campagne, j'avais envie de faire un petit scénario de test, pour mettre à l'épreuve mes aides de jeux, voir le système en marche, etc, et puis on fait la créa de perso qu'à la fin du mois, je suis en manque moi… !
+Du coup j'ai traîné deux ami·es dans le Quickstart "The Monster(s)" parce que c'est le premier qui m'est tombé sous la main.
+
+Pour le scénario en lui-même, sans spoiler, il est sympa. On a l'expérience "jeune vampire dans la merde", ça met bien l'accent sur la Soif et les conséquences de tout ça, chaque chapitre ajoute des nouvelles situations et les règles qui vont avec pour faire découvrir les diverses facettes, et les pré-tirés ont l'air sympa même si nous on a fait une créa de persos accélérées histoire que je me fasse un peu la main dessus aussi.
+Par contre, y a aussi des soucis :
+- Le scénario n'a pas une section pour la Conteuse "Voilà l'histoire". Tu dois lire ton scénario et découvrir les trucs au fil de ta lecture. Vraiment, ne faites pas ça si vous écrivez des trucs, c'est relou pour les MJ qui préparent des parties.
+- Pas de durée indiquée, ça aussi c'est relou. Et de ce que j'ai lu et pu expérimenter, c'est dur à faire en one-shot. Nous, ils nous a fallu 5h de jeu alors que j'ai un peu speedé le dernier tiers. Pour un "quick-start" ça me semble pas super heureux de prendre plusieurs sessions, ou sinon de prévoir clairement le scénario en deux parties bien distinctes, ce qui n'est pas le cas.
+- Le texte réussit à être assez long (quand on à l'habitude des PBTA je veux dire) et de pas donner assez d'indication à pleins de moments. Sans trop en dire, les meurtres sur lesquels les persos enquêtes sont censés avoir un sens, mais il n'est pas du tout bien appuyé ni bien mis en scène, c'est très flou, l'antagoniste final est un peu… Pas très crédible si on fait pas quelques modifications, mais bon.
+- Le scénario est en vrai assez dirigiste, les PJ n'ont aucune chance d'empêcher des morts ni même de trouver le vrai coupable avant la fin du scénario. Ce n'est pas un drame parce qu'on a bien conscience, justement, de jouer plus le "drame" d'être un vampire un peu faiblard dans un réseau bien plus complexe, mais à ça vient s'ajouter le point suivant.
+- Les flashbacks. Ou, comme on pourrait dire, le moment "GROSERVO" du scénario.
+En gros, le jeu veut faire un plot-twist et donne les informations nécessaires au milieu du scénario, par une série de flash-back dans le désordre chronologique histoire de brouiller encore plus les pistes j'imagine. Autant vous le dire tout de suite : je l'ai pas joué comme ça, car ça m'a semblé teubé à la lecture et les quelques retours sur le scénario me le confirment. Je reviendrais dans une section spoiler sur les ajustements que j'ai fais, mais l'idée de ce bordel c'est vraiment de prendre les PJ par surprise et faire un plot-twist cheap as fuck : "Haha vous saviez pas ça hein ??" hé bien non scénario, on ne le savait pas parce que tu ne nous a donné aucune info allant dans ce sens avant. C'est donc pas un plot-twist, c'est juste une révélation sortie du chapeau sans aucun impact sur les personnages ou les PJ.
+J'en reviens pas qu'il faille encore le dire mais, si vous voulez faire des révélations efficaces en JDR comme en littérature ou quoi, il faut que les spectateurs aient les infos avant, qu'iels puissent se douter un peu de ce qui va arriver sans savoir bien dans quel sens les choses vont s'imbriquer, voir carrément deviner à deux pages de la révélation ce qui se passe et être très satisfait d'eux même (ce qui est un bon signe, ça veut dire que la révélation sort pas de nul part).
+
+Bon, mais vu que j'avais vu venir le problème en préparant le scénario la veille, on a joué les choses dans un ordre beaucoup plus satisfaisant et le scénario a vraiment bien roulé, mes deux PJ qui ne connaissaient pas le jeu ni son univers étaient contents, et c'était vraiment chouette !
+Pour ce qui est du système, ça fonctionne bien dans l'ensemble, on va pas se mentir. Le système Attributs + Compétences est assez souple, le principe de la Soif et des dés de Soif est super trop cool pour la narration (des gens ont été mangés à cause d'échec ou de réussite bestiale hihi), les Clans et leurs vibes sont toujours cool à amener en jeu, et puis lancer des brouettes de dés c'est un peu satisfaisant tout de même.
+Je suis toujours un peu dubitatif des réussites critiques qui doivent aller par paire pour fonctionner, ça fait un différentiel très très marqué : si tu as juste un critique il compte comme 1 réussite normal, si tu a deux critiques tu a tout de suite 4 réussites. J'imagine que rendre les "critiques" plus compliqués à atteindre va avec le design d'un jeu d'horreur, où la réussite doit être moins facile, ce genre de chose, mais c'est un peu étrange ce "0 à 100 en un seul dé". Boh.
+Par contre c'est vrai que l'utilisation des Disciplines est un peu pénible je trouve. On a eu plusieurs fois le cas de : tu active ta Discipline en faisant Attribut+Compétence, puis globalement le même jet avec le bonus donné par la Discipline. Suffit qu'y est un jet test d'Exaltation à faire pour "payer" le pouvoir, et tu te retrouves avec 3 jets différents pour draguer un flic quoi… Pas super efficace quoi. 
+J'avais trouvé un hack pour simplifié l'utilisation des Disciplines, je pense quand même vouloir tester les règles de base pour commencer, mais je commence même à me dire que j'ai bien envie d'automatiser les Disciplines et de juste mettre un jet de d'Exaltation et puis zou… À voir.
+
+Conclusion c'était quad même bin rigolo quoi ! Et j'ai évidemment hâte qu'on commence cette campagne !
+Je vous mets les recos de cette semaine ici, et pour les curieuxes ou Conteureuses je mets mes conseils pour "réparer" The Monster(s) et les spoiler qui vont avec après.
+
+♫ - Pour la BO de notre campagne j'ai commencé à constituer une playlist, problème : j'avais déjà joué la carte "guitare un peu cool et sombre" pour notre campagne de MonsterHearts, ayant même un paquet de musique de Vampire Bloodlines 1 dans cette dernière.
+Donc pour cette fois-ci, j'ai décidé d'aller dans le cliché romantico-dark du piano, du violon, et autre ambiance gothique quand bien même on jouera à une époque moderne.
+Et tout ça n'est en fait qu'une excuse pour vous recommander la BO des jeux-vidéos Blasphemous, qui ont été les premières a constitué la playlist. Bon je triche parce que celle-là est à la guitare, mais hé, je suis ici dans mon Domaine !
+Blasphemous 1 - Que Las Campanas Me Doblen : https://youtu.be/_c8cHCLtPGo?si=7YctAXq7mXF6QgFm
+▶ - C'était Halloween, la Maria-Carey-season approche à grand pas, et j'ai réalisé que certain·es pouvaient ne pas connaitre cette super vidéo de 10h de Nick Offerman qui sirote un whisky au coin du feu. Alors c'est une boucle de 45min en vrai, mais ça a accompagné quelques soirées entre potes alors pourquoi pas vous ?
+"Ten Hours of Nick Offerman's 'Yule Log’ " : https://www.youtube.com/watch?v=IQpW5sG5bg8&t=66s
+▶ - Une chouette AMV qui me donne l'excuse de vous conseiller la lecture du manga (j'ai pas vu l'adaptation anime) de "The summer Hikaru died". C'est de l'horreur psychologique, du slice of life, et avec des thématiques queer assez intéressantes. Je n'en suis pas super loin, mais si vous aimez les ambiances à la fois douces et dérangeantes, et que l'horreur vous intéresse aussi pour les messages qu'il peut passer et les thématiques qu'il peut explorer, alors jetez-y un œil. (Et l'AMV ne "spoil" pas grand chose, parce que c'est surtout les réflexions des gens etc qui sont importantes, mais peut-être que vous voulez lire au moins les deux premiers tomes pour préserver quelques surprises visuelles.)
+BAUZI - IMPOSTEЯ [The Summer Hikaru Died | Nine Inch Nails | As Alive As You Need Me To Be | AMV 4K] : https://www.youtube.com/watch?v=kZvMVg2nOao
+⚄ - J'ai joué à un jeu de société pour 2 qui se présente comme un autobattler (façon Hearthstone Battleground et compagnie), et vu que je taff avec un ami sur un jeu de société dans ce gout là, forcément ça nous a interppelé. Hé bha "Tag Team" ça marche super ! Facile à comprendre, petite boite, beaucoup de personnages tous avec des mécaniques différentes, et un visuel pas transcendant mais moi j'aime bien (à part la boite, ce jaune dégueu là, osekour).
+Le principe est assez simple : on choisit deux personnages, chacun avec leur petit paquet de cartes qu'on mélange ensemble. Au fur et à mesure des tours, on va ajouter des cartes à notre deck, mais sans jamais changer l'ordre des autres cartes, car en jeu on révèle les cartes de notre deck dans l'ordre, les une après les autres. C'est donc un jeu de "programmation", où on va se dire "Ha sa 3e carte c'est une défense, donc si je rajoute mon effet là ça va aussi décalé mon attaque d'un cran comme ça elle sera jouée en 4e."
+C'est très efficace et on retrouve bien le petit côté Auto-battler, et j'avoue que les tournois en perspectives sont assez alléchants !
+"Tag Team", édition Scorpion Masqué : https://www.philibertnet.com/fr/le-scorpion-masque/154793-tag-team-807658001676.html
+
+
+Alors, maintenant qu'on est entre bonne compagnie, c'est l'heure de sortir les marteaux et les rustines !
+SPOILERS POUR LE SCENARIO DE VAMPIRE V5 "THE MONSTER(S)"
+║En gros, l'idée du scénario c'est que en tant que nouveau-né, une Vampire vous a pris sous son 
+║aile, et un soir vous fait passer un test : passer une soirée entière dans une grosse teuf 
+║dans un hôtel, et ne pas craquer et boulotter tout le monde. Evidemment, ça tourne mal. Vous 
+║mangez des gens, au moins 3/4, et puis finalement votre mentor se pointe et accepte de vous 
+║aider en faisant passer tout ça pour un serial killer, et en échange vous bosserez pour elle. 
+║Bon, déjà le scénario ne le précise jamais, mais soit Sam, la mentor, est très conne soit 
+║c'est une grosse manipulatrice qui voulait juste s'assurer que vous lui soyez redevable, et 
+║vous vous doutez bien que c'est comme ça que je l'ai joué.
+║Pour "vendre" le truc du serial killer, elle inscrit aussi sur le mur un message : "Four for 
+║Four". Dans le scénario de base, les PJ n'ont pas du tout ces infos. Iels travaillent pour 
+║Sam, la Mentor, "parce que c'est comme ça", et vers les 2/3 du scénario un nouveau cadavre les 
+║emmène dans un hôtel random, où y a écrit le message : "Four for Four". Et c'est là où le 
+║scénario passe en mode flash-back pour faire vivre la nuit dont on vient de parler. Puis 
+║revenir au présent, railroader les personnages pour qu'ils se disent "Ca doit donc être 
+║totalement une proche des mors et on a magiquement assez d'info et de moyen pour les trouver 
+║en deux secondes", et paf confrontation finale.
+║C'est heu... Critiquable, disons.
+║
+║Donc, pour corriger tout ça :
+║- Déjà, faites les Flashbacks en début de session, et faites les en ordre chronologique (scène 
+║2,1,3). C'est une excellente façon de poser l'ambiance "vous êtes des monstres au milieu des 
+║humains", c'est du RP rigolo, et c'est aussi une bonne occasion d'abuser de la règle de Soif 
+║en demandant un test tout les 1 ou 2 tours, histoire de porter la narration par la mécanique.
+║Ca donne un tour de chauffe aux PJ aussi, dans un environnement "safe" vu que c'est juste une 
+║petite intro, ça donne du sens à leur travail ensemble, travailler pour Sam, etc.
+║En commençant par la scène 2 et en appuyant leur Bête qui leur cri de bouffer tout le monde,
+║iels vont naturellement accepter quand vous leur suggérer d'aller se planquer dans une 
+║chambre, ce qui amène à la scène 1 où "manque de bol" il y a quelqu'un (peut-être qu'iels vont 
+║se planquer dans leur chambre et Sam a volontairement envoyé Melissa là-bas) et ça fait tout 
+║aussi sens qu'iels pètent les plombs et que ça dégénère comme le prévoit le scénario. Ca donne
+║aussi une "couleur" un peu marrante dans la scène 3, quand Sam arrive pour leur faire la leçon 
+║puisque toustes les PJ vont regarder la Conteuse en mode "Mais elle croyait quoi Sam en 
+║fait ?" et autre "En vrai, elle nous a manipulé non ?", ce qui est très Vampire-compatible je 
+║trouve.
+║Et puis surtout, ça leur permet de capter d'eux même le plot-twist, comme il se doit quoi.
+║- Je vous conseil de nommer l'hôtel dans lequel l'intro se passe, et faire que la dernière 
+║victime est retrouvée dans ce même hôtel, pour la cohérence. De même, je vous conseil de bien 
+║expliquer que la soirée de l'intro est un truc de cinéma, ou au moins de "VIP", de décrire un 
+║peu Melissa (moi c'était une blonde aux yeux bleus, robe dorée, cliché d'actrice quoi), et de 
+║s'arranger pour que les PJ connaissent son nom (iels ont causé avec elle et d'autre, un des 
+║PNJ dans la scène 1 arrive dans la chambre en l'appelant...), ça l'humanise un peu du coup ça 
+║appuie un peu l'objectif du scénario, et puis comme ça les PJ peuvent logiquement la 
+║reconnaitre 30 ans plus tard (on oublie pas sa première victime...).
+║- Pour éviter que le twist soit éventé un peu trop vite, le principal problème c'est si les PJ 
+║vous entendent trop de fois parler de "il y a 30 ans". Du coup, utilisez les dates (l'intro 
+║était en 95, la partie en 2025), dites "il a été en taule des dizaines d'années", ce genre de 
+║chose.
+║- Pour accélérer les choses, j'ai fait arrivé le lynchage de Harry en même temps que la 
+║dernière victime. Ca a eu l'effet intéressant d'obliger vraiment mes PJ à prendre des 
+║décisions, et ça atténue un peu le côté "une nouvelle nuit, un nouvel appel, tchoo tchoo le 
+║railroad" je trouve.
+║- Pour faire un peu de "foreshadowing", et faciliter comment traquer Martha, j'ai décidé 
+║qu'elle faisait partie du harcèlement internet d'Henry et qu'elle utilisait le nom Melissa95. 
+║Balancé entre plusieurs pseudos ça attire pas trop l'attention, et ça marche bien.
+║- Pour Martha, j'ai décidé que c'était une petite vieille de film d'horreur boostée aux 
+║drogues, pour justifier sa puissance : elle a quand même buté 4 gaillards, dont un sportif de 
+║haut niveau, et elle est censée poser problème à des Descendants durant le final quoi !
+║J'avais aussi rajouté des traces de lien aux poignets sur certains cadavres, histoire de bien 
+║sous-entendre que la coupable avait dû ruser pour arriver à bout de ses victimes.
+║- Vraiment, le scénario dit que c'est secondaire de mettre Mr. Lector mais ça me semble 
+║vraiment dommage de pas le mettre. C'est une rencontre qui prend pas trop de temps, et ça 
+║rajoute des questions et des choix aux personnages, tout en renforçant les thématiques morales 
+║du scénario.
+║- Mes PJ ont dû achever Henry à l'hôpital, et je regrette un peu de ne pas avoir fait causer 
+║Henry. Je crois qu'a ce stade mes PJ avaient déjà compris que les meurtres étaient liés à leur 
+║passé et qu'Henry avait juste été piégé, du coup ça aurait donné une scène tragique cool.
+║- Dans la même idée, je regrette de ne pas avoir rendu les meurtres un peu plus "clair".
+║On est censé penser que c'est un vampire au début, mais en fait se rendre compte que non, et 
+║en fait pas grand chose n'indique l'un ou l'autre, et encore moins que c'est des meurtres 
+║"rituels" pour rappeler la mort de Melissa, etc. J'aurais peut-être renforcé le côté 
+║"saignage" des victimes, ou même un bijoux ou un truc lié au cinéma/à Mélissa/au message 
+║laissé sur les corps ou les scènes de crime. Ou alors appuyer sur le côté "entrainement" ? En 
+║l'état du scénario, on se demande un peu où voulait en venir Martha et pourquoi avoir tué tout 
+║ces gens quoi.
+║Réfléchissez y pour voir ce qui vous semble le plus logique et intéressant.
+║
+║Voilà en gros les quelques modifs que j'ai faites et celles que j'aurais aimé faire, pour que 
+║la partie se passe bien selon moi.
+║Bon jeu, et si vous faites jouer avec ces modifs hésitez pas à me dire ce que vous en pensez !
+
 
 VAMPIRE V5 (session 0) - 27/10/25
 En ce moment je prépare une campagne de Vampire la Mascarade V5 pour mon groupe qui sort de MonsterHearts. Je me suis dit que niveau vibes on s'éloignait pas trop.
@@ -572,6 +693,7 @@ Allez, on finit sur la seule petite folie possible, une image en ASCII, et à la
             ############                 
 
     Image en ASCII d'un dé sur le côté.
+
 
 
 
