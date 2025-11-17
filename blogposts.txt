@@ -2,17 +2,46 @@
 Un blog pour parler principalement de JDR, de mes réflexions, et aussi mes découvertes.
 Un post tout les lundi, à moins que j'ai la flemme.
 
+Sur les réseaux vous pouvez me trouver sur Bluesky ici : https://bsky.app/profile/toorte.bsky.social
 Et si vous tenez absolument à savoir quand le projet est mis à jour, voilà le flux RSS le moins sexy que vous croiserez : https://github.com/toortedot/TXToorte.github.io/commits/main.atom
 
 =====CHAPITRES=====
 Pour trouver une note, faites la recherche avec CTRL+F ou avec le menu ☰ Menu > ⌕ Trouver dans la Page.
 
-OUVERTURE - OLD MAN YELLS AT THE CENSORS - CHÊNOMBRE (devlog 1) - CE POST N'EST PAS VRAIMENT SUR LES LIBRAIRIES - LA SECTION (présentation) - QUEERVENTION 2025 - LE PROBLÈME DES JETS DE THÉORIE - LUNDI RIEN - CORRECTION, ACAB, ET ENCORE LA THEORIE - MOINS DE DES DANS MON JDR ?! - TOUJOURS MOINS DE DES - BRINDLEWOOD BAY BABY ! - CHRONIQUE DE SINDALE (MonsterHearts) - VAMPIRE V5 (Session 0) - VAMPIRES AND MONSTERS (Compte-rendu)
+OUVERTURE - OLD MAN YELLS AT THE CENSORS - CHÊNOMBRE (devlog 1) - CE POST N'EST PAS VRAIMENT SUR LES LIBRAIRIES - LA SECTION (présentation) - QUEERVENTION 2025 - LE PROBLÈME DES JETS DE THÉORIE - LUNDI RIEN - CORRECTION, ACAB, ET ENCORE LA THEORIE - MOINS DE DES DANS MON JDR ?! - TOUJOURS MOINS DE DES - BRINDLEWOOD BAY BABY ! - CHRONIQUE DE SINDALE (MonsterHearts) - VAMPIRE V5 (Session 0) - VAMPIRES AND MONSTERS (Compte-rendu) - ROLL IN'TERNET 2025
 
 Recommandations JDR/JDS : ⚄ - Recommandations musicales : ♫ - Recommandations vidéos : ▶ - Recommandations autres : ☛
 
 ===========================================================================================================================================
 ===========================================================================================================================================
+
+ROLL IN'TERNET 2025 - 17/11/25
+Petite note : si vous voulez me trouver sur les réseaux, je suis sur Bluesky ici : https://bsky.app/profile/toorte.bsky.social
+
+Le weekend du 8 j'ai participé au festival de JDR en ligne Roll In'ternet, comme j'avais déjà fait (au moins) une autre fois et c'était fort chouette !
+Beaucoup de tables proposées, beaucoup de jeux très différent de ce que j'ai aperçu, et quasi toutes les tables ont trouvé des joueureuses pour y participer aussi. Moi j'ai proposé 3 parties, une de 3h et une de 4h, et à chaque fois j'ai eu 5 PJ.
+En parallèle y avait des activités, comme une aventure textuelle dont vous êtes le héros, un Bingo à remplir selon vos parties, le dessin d'une carte participative, un quizz, également une table ronde qui avait l'air intéressante avec des artistes comme l'illustrateur de Donjon et Chaton. Bref, de quoi faire et une bonne ambiance !
+L'évènement se veut accueillant et inclusif, fournit de base des questionnaires pour remplir les Trigger warnings, et dans l'ensemble ça me semble bien réussit.
+Par contre pass de politique anti-IA malheureusement, mais pour en avoir causé avec le staff c'est dans les doléances pour l'édition suivante, même si je suis pas sûr qu'on sera sur une décision aussi tranchée que je l'aimerais.
+
+Tout le week-end j'ai fait jouer du SR-A : un premier scénario écrit pour l'occasion comme une petite introduction, à base de travaux du métro à Lyon qui tourne mal. C'était surement le plus "faible" que j'ai proposé, les différents éléments du scénario (une histoire de "Lac" bizarre et la vibe "archéologie") sont pas bien calibrés et mis en avant, et j'ai eu du mal à l'emmener ailleurs que ce que j'avais en tête en l'écrivant. Souvent c'est comme ça que je jauge mes scénarios pour SR-A : quand je les écris j'ai une idée assez précise, puis je rajoute des éléments pour élargir les possibilités, et quand je playstest j'essaie toujours de mettre en avant une autre piste que ma principale. Si ça galère, c'est que l'équilibre est pas le bon et que les Indices, lieux etc vont trop dans un même sens.
+Le scénario du samedi soir je l'avais déjà fait jouer à la Queervention cette année et je l'aime toujours autant. Il est inspiré de la creepypasta des "Stairs in the woods", et cette fois encore les escaliers ont bien fait peur à mes PJ ce qui est un vrai plaisir. Ca me fait plaisir d'avoir réussi à transmettre (j'ai l'impression) ma fascination pour ce principe de "Ce truc commun n'a rien à faire là et ça me fait PEUR".
+Le dernier scénario était aussi écrit pour l'occasion, et était en fait la réécriture d'un très vieux scénario, avant que je me lance dans l'écriture de SR-A et encore avant de connaître les Carved from Brindlewood. C'est surement mon scénario avec le plus gros trigger warning, vu qu'on y parles auto-mutilation, suicide et autres joyeusetés assez violente du Body-horror. Il demande encore un peu de finition, mais dans l'ensemble le play-test c'est bien passé ! J'ai réussi à avoir un peu plus ce côté "enquête ouverte dans plusieurs lieux" qui est moins présent dans SR-A, vu que je préfère et que c'est plus facile de se concentrer sur un lieu précis dans ce format.
+Et mention spéciale à l'auxiliaire Szpiner envoyant une photo horrible d'un doit arraché à toute son équipe, forçant tout le monde à faire un test de Calme, c'était très drôle.
+
+Tous ces scénarios finiront dans un recueil supplémentaire pour SR-A, mais seulement si j'arrive à sortir le bouquin d'abord. Et jouer ce week-end m'a remotivé à rebosser sur les dernières corrections pour enfin sortir SR-A, ce qui tombe bien puisque la fin des vacances veut dire que mon aimable correctrice sera de nouveau disponible !
+Allez, on croise les doigts pour que je puisse très bientôt vous parler de ce jeu et que vous puissiez voir ce que c'est ! En plus je me suis cassé la tête à maquetter ça et faire des illustrations un peu cool, ça va bien deux minutes ces histoires.
+
+♫ - Je crois que Nova Twins sont pas totalement inconnues au bataillon, mais moi je découvre et c'est très cool. Encore un groupe assez minimale : une basse, parfois une guitare, une batterie et du chant. Et surtout TOUT PLEINS d'effets trop cool de partout ! C'est rock, électro, une vibe un peu rap dans le chant. Bref, c'est très stylé, et encore plus à voir en session live du Tiny Desk.
+NPR Music - "Nova Twins: Tiny Desk Concert" : https://www.youtube.com/watch?v=EiOiWE8p-IE
+▶ - Une excellente vidéo sur comment créer une ville dans le Monde des Ténèbres, qui me sera très utile pour ma campagne Vampire située à Rennes. Elle est courte, concise, et les conseils sont vraiment bien, avec un accent mis sur le respect de l'histoire (pour pas être raciste, au hasard) et le respect de vos PJ (pour pas les trigger, au pif).
+Matt Stormcrow - "How to Create a City for Vampire the Masquerade and The World of Darkness" : https://www.youtube.com/watch?v=x0dk-zHCEdA
+☛ - Lecture un peu longue mais intéressante. Ca aborde longuement les arguments de la "manosphère", d'extrême droite et de droite, à propos de la "man-crisis",  ces jeunes hommes écrasés par la société, à qui le féminisme à enlever le sens de la vie, ouinouin. Et l'article se moque évidemment de ces manipulations de stats, remet un peu l'église au milieu du village, et finit sur un parallèle intéressant. Ce n'est pas un brûlot politique que mon envie de tout cramer aurait voulu, mais c'est intelligent et intéressant.
+(l'article étant derrière un pay-wall, je vous met la version gratuite.)
+Jessica Winter - "What Did Men Do to Deserve This?" : https://archive.ph/UNdFj
+▶ - Bon et sinon j'ai vu Tenet, de Nolan et j'ai pas grand chose de positif à en dire. C'est beau, globalement tout le monde est cool, content de voir Pattinson après mon marathon Twilight, et les ziks sont très cool. Bon okay, ça c'est la base d'un film à gros budget fait par des gens compétents, mais par contre le reste laisse vraiment à désirer : le concept de base, "des objets et des gens qui vont en sens inverse dans le temps" n'est jamais exploité dans les scènes d'action pour faire des choses compréhensibles, étonnantes ou impressionnantes, et le tout est emballé dans un scénario qui s'explique mal de bout en bout et veut se donner un air coool et complexe alors que c'est quand même vachement basique. Tout ça dure 2h30, et en plus on vient me dire que "non mais c'est bien au 3e visionnage" ? Il aurait fallu passer un bon moment dès le premier...
+Vais me refaire Inception voir comment ça a vieillit tiens.
+
 
 VAMPIRES AND MONSTERS (compte-rendu) - 05/11/25
 J'ai joué hier et je veux en PARLER ! Alors bonjour :)
@@ -693,6 +722,7 @@ Allez, on finit sur la seule petite folie possible, une image en ASCII, et à la
             ############                 
 
     Image en ASCII d'un dé sur le côté.
+
 
 
 
