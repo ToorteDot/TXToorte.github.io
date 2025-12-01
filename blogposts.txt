@@ -8,12 +8,61 @@ Et si vous tenez absolument à savoir quand le projet est mis à jour, voilà le
 =====CHAPITRES=====
 Pour trouver une note, faites la recherche avec CTRL+F ou avec le menu ☰ Menu > ⌕ Trouver dans la Page.
 
-OUVERTURE - OLD MAN YELLS AT THE CENSORS - CHÊNOMBRE (devlog 1) - CE POST N'EST PAS VRAIMENT SUR LES LIBRAIRIES - LA SECTION (présentation) - QUEERVENTION 2025 - LE PROBLÈME DES JETS DE THÉORIE - LUNDI RIEN - CORRECTION, ACAB, ET ENCORE LA THEORIE - MOINS DE DES DANS MON JDR ?! - TOUJOURS MOINS DE DES - BRINDLEWOOD BAY BABY ! - CHRONIQUE DE SINDALE (MonsterHearts) - VAMPIRE V5 (Session 0) - VAMPIRES AND MONSTERS (Compte-rendu) - ROLL IN'TERNET 2025 - QUELQUES NOUVELLES
+OUVERTURE - OLD MAN YELLS AT THE CENSORS - CHÊNOMBRE (devlog 1) - CE POST N'EST PAS VRAIMENT SUR LES LIBRAIRIES - LA SECTION (présentation) - QUEERVENTION 2025 - LE PROBLÈME DES JETS DE THÉORIE - LUNDI RIEN - CORRECTION, ACAB, ET ENCORE LA THEORIE - MOINS DE DES DANS MON JDR ?! - TOUJOURS MOINS DE DES - BRINDLEWOOD BAY BABY ! - CHRONIQUE DE SINDALE (MonsterHearts) - VAMPIRE V5 (Session 0) - VAMPIRES AND MONSTERS (Compte-rendu) - ROLL IN'TERNET 2025 - QUELQUES NOUVELLES - PLUS DE SECTION RECHERCHES-ARTEFACT ? -
 
 Recommandations JDR/JDS : ⚄ - Recommandations musicales : ♫ - Recommandations vidéos : ▶ - Recommandations autres : ☛
 
 ===========================================================================================================================================
 ===========================================================================================================================================
+
+PLUS DE SECTION RECHERCHES-ARTEFACT ? - 01/12/25
+Bonjour bonsoir! J'ai sorti un jeu, et vous ça va ?
+Il est disponible sur Itch.io ici : https://toorte.itch.io/sr-a
+Et sur DTRPG si c'est plus votre cam : https://www.drivethrurpg.com/fr/product/527080/section-recherches-artefact
+
+Comme prévu, faire la com de SR-A n'est pas ma phase préférée du bouzin, t'a vite l'impression d'être le gros relou qui parle tout le temps de son jeu et… bha c'est un peu le principe hein. C'est le jeu quoi.
+Mais tout de même, ça fait plaisir d'avoir sorti ce beau bébé, j'en suis toujours aussi content, et j'attend avec impatience d'avoir une version papier à proposer (en impression à la demande) pour pouvoir tenir ça dans mes mains quoi !
+
+Dans deux semaines j'organiserais une jam de création autour de SR-A, sur Itch.io. (dans 13 jours, 13 heures, 22 minutes et 23 secondes pour être précis.)
+Et je voulais réfléchir un peu quel genre de "supplément" permettait un jeu à la CfB, et celui-ci en particulier, parce que c'est peut-être pas le plus évident vu de l'extérieur.
+- Déjà, facile : des nouveaux ARCHÉTYPES ET AGENCES. C'est ça qui définit la base de ton personnage, ton Archétype définit le concept de base du perso en y ajoutant un soucis perso et une Motivation à s'intéresser au surnaturel, tandis que l'Agence correspond à l'organisation gouvernementale où vous travaillez, votre taff là bas, un problème pro et une personne importante dans votre vie.
+On peut très facilement imaginer de nouveaux Archétypes en allant piocher dans pleins de films et séries, et niveau Agences du gouvernement il y a bien de quoi faire !
+- Des nouvelles FACTIONS: même si cette première mouture de SR-A ne s'attarde pas sur le jeu en campagne, le bouquin propose trois autres organisations qui peuvent travailler avec ou contre les auxiliaires. Elles sont très brièvement décrites, avec une ligne pour dire si elles collaborent ou sont en conflit avec les autres groupes, 3 PNJ, décrit en trois points, et 3 Histoires secrètes, des dates importantes pour l'organisation à chaque fois accompagnées d'une question.
+Donc facile d'en créer d'autres. D'un petit club d'exorciste à la multinationale qui créait des objets chelous, il y a des quoi faire.
+- Encore plus simple, on peut imaginer de juste ÉCRIRE UN PNJ OU UNE HISTOIRE SECRETE pour une organisation.
+Ou carrément pour la Section directement ! Des Auxiliaires, des Calbos, relier l'organisation à des moments historiques intéressants… Il y a de quoi faire !
+- Dans un autre registre : des REGLES SUPPLEMENTAIRES. Bon, SR-A n'a pas de règles spécifiques au combat (encore que), pour le voyage, un arbre de compétence ou je ne sais quoi, mais si vous avez envie hé bien pourquoi pas.
+On pourrait évidemment imaginer une façon de gérer la magie, la survie ou la bureaucratie par exemple.
+- De même, DES LISTES DE MATOS: SR-A n'est pas non plus très intéressé par le matériel ou les bestiaires, et il n'y a pas de règles spécifiques à tout ça (tes armes vont casser ou quoi si on le décide en contre-coup d'un échec, et les ennemis sont gérés comme n'importe quel autre obstacle). Mais malgré tout j'ai trouvé ça pertinent de faire une aide de jeu sur les forces de l'ordre et de lister le type d'armement qu'ils ont, pour permettre aux Pistons de caractériser leurs PNJ et mettre un peu de réalisme dans tout ça, alors pourquoi pas.
+Pour les règles comme pour les listes de matos, j'irais piocher du côté de l'OSR pour l'efficacité et la simplicité, qui correspond bien plus à la philosophie de SR-A (et la façon de créer des PJ, en lançant des d6 sur des tables, a été directement emprunté à l'OSR par exemple).
+- Des ARTEFACTS OU ENTITÉS : les objets ou créatures surnaturelles sont toutes assez facile à créer. Un nom, une description simple, une question Premier contact a poser à la première personne à interagir avec, qui définit un peu plus de choses sur le fonctionnement de l'irrégularité, et un segment Étudier, qui explique ce qu'on découvre en étudiant l'objet et les problèmes que ça peut créer.
+On peut évidemment imaginer des règles supplémentaires, un PNJ ou une illustration pour accompagner ça, par exemple.
+- Une AFFAIRE : logique, on peut écrire un scénario pour le jeu. J'ai fais un document qui explique spécifiquement la création d'une Affaire, que je mettrais en lien plus bas.
+Évidemment, on peut facilement imaginer une "mini-affaire" : la plupart des éléments d'une Affaire sont faits avec 5 ou 6 entrées, et 20 pour les Indices, donc on peut diviser tout par deux voir trois. 1 ou 2 PNJ, 5 ou 10 Indices, etc.
+Mais on peut aussi faire encore moins : un Lieu c'est une description courte et une question, ça peut déjà être vachement inspirant ! Une liste d'Indices, avec ou sans titre, peut donner pas mal d'idées. De même, écrire seulement un Stinger et laisser les gens par la suite inventer une Affaire autour peut-être très cool !
+- Évidemment, de la MUSIQUE, ILLUSTRATIONS, ETC : en plus de tous les éléments de jeu, on peut bien sûr s'amuser à imaginer la bande-son du jeu, d'un moment qu'on a joué ou imaginé, ou pour une Affaire déjà écrites, et de même pour des illustrations, petites nouvelles, même pourquoi pas des sculptures etc…
+- Des AIDES DE JEUX : j'ai inclus dans SR-A des informations sur les armes à feu en France, ainsi que sur les forces de l'ordre, qui sont des sujets qui me semblaient utiles en partie mais galère à bien comprendre et à sortir des clichés Américains. Je suis sûr que beaucoup de gens ont des connaissances peuvent donner des conseils pour mettre en scène et mieux comprendre certains domaines, français ou non, et pourquoi pas accompagner ça d'idée de scénario, de PNJ ou de difficulté par exemple.
+
+Et pas mal d'autres choses, j'imagine ? Déjà SR-A se passe principalement en France "métropole" et à notre époque. En explorant d'autres territoires ou d'autres époques, on ouvre très fort les possibilités !
+J'aime vraiment bien l'idée de suppléments pour des CfB constitués juste d'un ptit bout de ci, un ptit bout de ça, et que les Pistons puissent venir rajouter dans leurs parties ou créer autour de ces idées. En fait ça me rappel beaucoup les jeux Mosaic Strict, dont je ne connais pas trop l'origine etc, mais qui ont cette ambition de pouvoir être "branché" sur n'importe quel jeu, et puisque les CfB sont des jeux mécaniquement très simple et surtout des scénarios "en kit", constitués de divers morceaux qu'on assemble durant la partie, ça les rend très compatible avec tout ça je pense.
+Je suis actuellement trop branché sur SR-A pour y penser, mais ça pourrait être marrant à imaginer pour d'autres CfB du coup… Tant de choses possibles c'est terrible !
+
+Si l'idée de la Jam vous intéresse, c'est par ici : https://itch.io/jam/sr-a-jam
+Et le doc de conseil pour écrire des scénarios pour SR-A est là : https://docs.google.com/document/d/1Nj64bsJKY3APms7gqoRjC0mzBysBQr7KDFQPtARcSYA/edit?tab=t.0
+
+♫ - Pas une découverte puisque ça fait un moment que j'écoute en boucle le dernier album de Linkin Park, avec la nouvelle chanteuse Emily Armstrong, mais je viens de me décider à ajouter cette musique à ma playlist. Je ne fais jamais très attention aux paroles des musiques, je me fais juste une image mentale en grapillant des mots ici ou là mais c'est parfois/souvent à côté de la plaque (et c'est pas très grave), donc je ne sais pas si je comprend bien tout mais cette histoire de "Pretend you’re spotless / But I don’t wash away / And now you’re stained" résonne pas mal beaucoup avec moi et ça donne envie de chanter très fort en boucle.
+Linkin Park - Stained :  https://youtu.be/TWmOZB-9xAw?si=X5-wMjlmIwaCgpg8
+⚄ - Puisque j'en parlais, quelques jeux Mosaic Strict que je trouve cool : 
+- The Unblind Sisters, par Paul Czege : https://paulczege.itch.io/the-unblind-sisters-for-mosaic-strict
+- This one boyf, par Paul Czege : https://paulczege.itch.io/this-one-boy-for-mosaic-strict
+- Stay awhile and listen, par Adam Schwaninger : https://admiralducksauce.itch.io/stay
+- The Bard, par Substitute Adventurer : https://substitute-adventurer.itch.io/bard
+- It's not what I've ordered, par Gulix : https://gulix.itch.io/not-what-ive-ordered
+⚄ - Je ne l'ai pas encore regardé, mais le trailer avait l'air assez dingo : un actual play ultra immersif, avec des gros bouts de GN dedans, bien filmé, mis en scène etc. Du grand spectacle quoi, très loin de nos pratiques autour de la table (encore que, je sais pas comment vous passez vos dimanches), mais c'était très prometteur et il faudra que je vois si ça tient ses promesses !
+Dungeon Dudes - Tales From Woodcreek: Chapter 1 : https://www.youtube.com/watch?v=hmY-MyQhWCk&list=WL&index=68
+▶ - Une chouette méthode pour mapper des villes de fantasy rapidement, et même si il faut une bonne connaissance de certaines "logiques" derrière une ville, y a des idées cool pour faire une map utile à l'impro, et pas juste "faire une map pour tout savoir sur tout et faire un burn out de prép".
+The Red Quills Mapmaking - How to Map a Fantasy City in Five Minutes (Day #27) : https://youtu.be/Pqw9i8yYw0o?si=x8R4mgT7KMyF5fvB
+
 
 QUELQUES NOUVELLES - 25/11/25
 Une fois n'est pas coutume, mon rappel sur l'agenda ne suffit pas pour que je capte qu'il est temps d'écrire une note.
@@ -760,6 +809,7 @@ Allez, on finit sur la seule petite folie possible, une image en ASCII, et à la
             ############                 
 
     Image en ASCII d'un dé sur le côté.
+
 
 
 
