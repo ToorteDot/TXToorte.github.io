@@ -8,12 +8,69 @@ Et si vous tenez absolument à savoir quand le projet est mis à jour, voilà le
 =====CHAPITRES=====
 Pour trouver une note, faites la recherche avec CTRL+F ou avec le menu ☰ Menu > ⌕ Trouver dans la Page.
 
-OUVERTURE - OLD MAN YELLS AT THE CENSORS - CHÊNOMBRE (devlog 1) - CE POST N'EST PAS VRAIMENT SUR LES LIBRAIRIES - LA SECTION (présentation) - QUEERVENTION 2025 - LE PROBLÈME DES JETS DE THÉORIE - LUNDI RIEN - CORRECTION, ACAB, ET ENCORE LA THEORIE - MOINS DE DES DANS MON JDR ?! - TOUJOURS MOINS DE DES - BRINDLEWOOD BAY BABY ! - CHRONIQUE DE SINDALE (MonsterHearts) - VAMPIRE V5 (Session 0) - VAMPIRES AND MONSTERS (Compte-rendu) - ROLL IN'TERNET 2025 - QUELQUES NOUVELLES - PLUS DE SECTION RECHERCHES-ARTEFACT ? -
+OUVERTURE - OLD MAN YELLS AT THE CENSORS - CHÊNOMBRE (devlog 1) - CE POST N'EST PAS VRAIMENT SUR LES LIBRAIRIES - LA SECTION (présentation) - QUEERVENTION 2025 - LE PROBLÈME DES JETS DE THÉORIE - LUNDI RIEN - CORRECTION, ACAB, ET ENCORE LA THEORIE - MOINS DE DES DANS MON JDR ?! - TOUJOURS MOINS DE DES - BRINDLEWOOD BAY BABY ! - CHRONIQUE DE SINDALE (MonsterHearts) - VAMPIRE V5 (Session 0) - VAMPIRES AND MONSTERS (Compte-rendu) - ROLL IN'TERNET 2025 - QUELQUES NOUVELLES - PLUS DE SECTION RECHERCHES-ARTEFACT ? - VAMPIRE OSR -
 
 Recommandations JDR/JDS : ⚄ - Recommandations musicales : ♫ - Recommandations vidéos : ▶ - Recommandations autres : ☛
 
 ===========================================================================================================================================
 ===========================================================================================================================================
+
+VAMPIRE OSR - 08/12/25
+J'ai tout pleins de trucs à faire en ce moment : des dossiers de financement (fun), de la com pour SR-A (jouez-y svp merci bisous), une campagne de Vampire à préparer, et puis tout les autres projets que j'ai dans mes notes.
+Du coup hier soir je me suis couché à 5h pour écrire et imaginer des trucs pour un "et si Vampire c'était de l'OSR fantasy chelou façon Legacy of Kain et tout" :)
+Alors attention, quand je dis que je me suis couché à pas d'heure c'est pas que j'ai un jeu tout finit, mais que j'ai passé des plombes à renommer des trucs parce que la langue c'est fun ! La plupart des mots sont donc du "charabia" inspiré du celtique/gaulois, parce que j'ai des dicos à rentabiliser...
+
+Donc ça pourrait s'appeler : "Cavalsang le Massacre".
+On y jouerait dans une cité en pleine guerre civile : la Grande Cité d'Ulondate ("Ulano", le rouge du vin et métaphore du sang, et "Condate", confluent, ancien nom de Rennes).
+Cette cité était gouvernée par des Cavalsang, des vampires qui vivaient avec leurs sujets humains. Pour accommoder ses maîtres vampires, la ville est en grande partie couverte et surtout sous-terraine, mais elle n'a rien d'une cité-prison : c'est un lieux construit avec soin et goût, comme un idéal de vie, et utilisé avant tout par une majorité d'humains.
+Et justement, depuis peu, une révolte humaine a mis le feu à toute une partie de la ville.
+Ulondate est en flamme, et un monde est en train de disparaître...
+
+Un contexte parfait pour faire de l'exploration et du JDR !
+Le système utiliserait du d12, avec 3 ou 4 stats classiques de l'OSR.
+CREATION : A la création on choisirait sa Lignée et un Confluent, une "Lignée secondaire", car aucun sang vampirique n'est pur. Chacune vous donnerait accès à une Discipline, qui vous coûtera du Sang à utiliser.
+La Lignée donnerait la Malédiction, et le Confluent une particularité physique.
+Et pourquoi pas tirer d'une petite liste de "Passé", pour savoir quel humain tu étais.
+DISCIPLINES : Pas de liste de pouvoirs, pas de difficulté spécifique, si tu as "Oblivion" tu peux l'utiliser comme tu le veux : tu veux pour prendre le contrôle de quelqu'un façon marionnette ? Dépense ton point de Sang et fait ton jet ! A voir si j'ai vraiment envie d'utiliser les Disciplines de Vampire ou d'être un peu plus foufou, peut-être donné des noms un peu plus évocateurs et à rallonge à tout ça, dans la tradition OSR... Et sûrement des tables aléatoires de contre-coup pour chacune, quelque chose comme ça.
+AGIR : Pour agir, on lance 2d12, on garde le plus bas et on veut faire en dessous de son score de Stat. Ce serait un dé normal, et un de Soif : si c'est lui le plus bas, ou en cas d'égalité, tu réussira ou échouera de façon destructrice et tu perd 1 Sang. J'imagine qu'il pourrait se passer quelque chose si tu fais pile ton score de Sang, façon Lasers & Feeling ?
+LIGNÉES : pour le moment les Clans de VtM mais renommé.
+1- Les ANCYSSTA ("Aysso", une vie) : étudiants de la Mort.
+2- Les ARKERDA ("Kerda", artisan) : la Création à tout prix.
+3- Les BONS CADETIS ("Cado", sage) : ceux qui recherchent la Paix.
+4- Les DOLUCOS ("Dolucos", mauvais loup) : avide de contrôle.
+5- Les FLAMETAS ("lato", féroce) : doué d'une volonté inébranlable.
+6- Les GUTUATET ("Gutuater", un voyant) : prêcheur de péchés.
+7- Les MALSLANIA ("Dislano", malsain) : des bouffons et des prophètes.
+8- Les NÆDETUR ("uedu", sauvage) : sauvage et libre.
+9- Les NOBRIGETO ("Brigeto", pouvoir ) : le raffinement et la poigne.
+10- Les RASKEYAN ("Skeyan", coupé) : hideux mais aux aguets.
+11- Les SENTETOS ("Sentu", sentier) : audacieux et sans attache.
+12- Les TOMBESLA ("Temeslo", crépuscule) : compagnons des Ombres.
+
+Et qu'est-ce qu'on y jouerait ?
+La ville serait divisée en quartier, inspiré de Rennes, et avec 5 étages inférieurs, comme était censée l'être la ville d'Enoch dans VtM. Plus on s'enfonce plus on va vers la richesse et le pouvoir.
+Une première aventure serait pourquoi pas d'aller dans les étages inférieurs pour sauver (ou boire) un Ancien, piégé dans ses quartiers, alors que les flammes, les frondeurs, et les pilleurs envahissent la ville.
+On peut aussi imaginer l'Ancien d'une Lignée qui brûlerait indéfiniment : il faudrait aller dans sa tour, affronter sa douleur et ses cauchemars manifestés, ainsi que ses infants rendus fous.
+Plus simple évidemment : le pillage d'une grande maison bien gardée.
+Pourquoi pas des vestiges perdus qui réapparaissent avec l'incendie ?
+
+Plus globalement, c'est le genre de jeu où j'ai envie que l'environnement soit un sujet, qu'on découvre une société bizarre, ses infrastructures, ses us et coutumes, etc. Et inviter à la créativité, évidemment, mais aussi au jeu, à tester des trucs et rigoler quand ça marche pas. On veut du Bloodborne ou du BLAME (même si je confesse ne pas acrrocher au manga), mélangé à du Mork Borg, du Legacy of Kain ou du Medievil, du macabre un peu drôle, absurde.
+Ca fait un moment que cette idée me traine en tête, elle est encore beaucoup trop rattachée à Vampire pour avoir son propre souffle, ça manque de truc over the top qui font rêver, mais peut-être que ça viendra.
+
+Et avant de vous lâcher, je vous rappel que Section Recherches - ARTEFACT, de l'enquête émergente et de l'horreur en Fance, est disponible sur Itch.io : https://toorte.itch.io/sr-a
+C'est écrit, illustré et maquetté par mes soins, ça a été corrigé et réécrit par une chouette personne bien plus soigneuse que moi, pour assurer un livre de qualité. Vous y trouverez un système qui se veut simple, le principe génialissime des enquêtes "en kit" de Brindlewood Bay, et beaucoup de conseils pour mener ce genre de partie ainsi que des aides du genre "Comment ça fonctionne les armes à feux en France" ou encore "Mais c'est quoi la différence entre la police municipale et la gendarmerie" ?
+
+♫ -  Je n'ai trouvé qu'une autre musique de "Lizards in the Spring" et ce n'était pas ma passion, mais celle-ci, outre son titre à rallonge que j'adore, a une simplicité et une ambiance tellement incroyable ! Musique pour un road-trip étrange au milieu d'un désert de téléviseur ou pour accompagner une marche dans les montagnes, vers un étrange météore qui s'est écrasé hier...
+Lizard in the Spring - "A Quick One Before the Eternal Worm Devours Appalachia" : https://www.youtube.com/watch?v=9P_8pbgM8Vw&list=P0LYCiuEAERXHD1WGueH9IDxtOQt-KvajGp&index=2
+⚄ - Un petit supplément trop chouette pour Mothership, de lettres bizarres avec des effets bizarres. Simple, efficace, et sûrement utilisable pour pas mal d'autres jeux !
+DoubleMonk - "Dead Letters" : https://doublemonk.itch.io/dead-letters
+▶ - Une vidéo qui donne pleins d'idées pour continuer le jeu entre les parties. Vu qu'on s'apprête à lancer une campagne de Vampire qu'on espère long, je l'ai envoyé à mes joueureuses dans l'espoir qu'iels trouvent des choses intéressantes pour elleux, et que ça aidera à maintenir l'énergie et l'intérêt sur le long terme, un travail qui retombe malheureusement souvent sur la MJ.
+Minty Talks A Lot - "How to play D&D when you're not playing D&D" : https://www.youtube.com/watch?v=H1hoCqQJ5kk
+▶ - Une vidéo super intéressante, qui s'appuie sur un vieux bouquin d'architecture pour donner une autre façon de créer des aventures et des espaces de jeu. C'est super, mais ça manque de visuel et il faudra que je revois la vidéo et que je me fasse ma petite bibliothèque, j'adore ce genre de façon d'aborder la création de donjon etc !
+RPG PHD - "Designing with Pattern Language Makes Better Cities, Dungeons, and Adventures" : https://www.youtube.com/watch?v=quHi4MW0PwY
+☛ - Et si vous vous demandiez : oui le livre est dispo sur internet, c'est un gros pavé de 546 pages, et y a pas beaucoup de dessins non plus, mais ça a l'air une lecture passionnante si on a la patience.
+Christopher Alexander  - The timeless way of building" : https://library.uniteddiversity.coop/Ecological_Building/The_Timeless_Way_of_Building_Complete.pdf
+
 
 PLUS DE SECTION RECHERCHES-ARTEFACT ? - 01/12/25
 Bonjour bonsoir! J'ai sorti un jeu, et vous ça va ?
@@ -815,6 +872,7 @@ Allez, on finit sur la seule petite folie possible, une image en ASCII, et à la
             ############                 
 
     Image en ASCII d'un dé sur le côté.
+
 
 
 
