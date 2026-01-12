@@ -8,12 +8,173 @@ Et si vous tenez absolument à savoir quand le projet est mis à jour, voilà le
 =====CHAPITRES=====
 Pour trouver une note, faites la recherche avec CTRL+F ou avec le menu ☰ Menu > ⌕ Trouver dans la Page.
 
-OUVERTURE - OLD MAN YELLS AT THE CENSORS - CHÊNOMBRE (devlog 1) - CE POST N'EST PAS VRAIMENT SUR LES LIBRAIRIES - LA SECTION (présentation) - QUEERVENTION 2025 - LE PROBLÈME DES JETS DE THÉORIE - LUNDI RIEN - CORRECTION, ACAB, ET ENCORE LA THEORIE - MOINS DE DES DANS MON JDR ?! - TOUJOURS MOINS DE DES - BRINDLEWOOD BAY BABY ! - CHRONIQUE DE SINDALE (MonsterHearts) - VAMPIRE V5 (Session 0) - VAMPIRES AND MONSTERS (Compte-rendu) - ROLL IN'TERNET 2025 - QUELQUES NOUVELLES - PLUS DE SECTION RECHERCHES-ARTEFACT ? - VAMPIRE OSR - BILAN 2025 -
+OUVERTURE - OLD MAN YELLS AT THE CENSORS - CHÊNOMBRE (devlog 1) - CE POST N'EST PAS VRAIMENT SUR LES LIBRAIRIES - LA SECTION (présentation) - QUEERVENTION 2025 - LE PROBLÈME DES JETS DE THÉORIE - LUNDI RIEN - CORRECTION, ACAB, ET ENCORE LA THEORIE - MOINS DE DES DANS MON JDR ?! - TOUJOURS MOINS DE DES - BRINDLEWOOD BAY BABY ! - CHRONIQUE DE SINDALE (MonsterHearts) - VAMPIRE V5 (Session 0) - VAMPIRES AND MONSTERS (Compte-rendu) - ROLL IN'TERNET 2025 - QUELQUES NOUVELLES - PLUS DE SECTION RECHERCHES-ARTEFACT ? - VAMPIRE OSR - BILAN 2025 - DES CHOUETTES CHOSES
 
 Recommandations JDR/JDS : ⚄ - Recommandations musicales : ♫ - Recommandations vidéos : ▶ - Recommandations autres : ☛
 
 ===========================================================================================================================================
 ===========================================================================================================================================
+
+DES CHOUETTES CHOSES - 12/01/26
+Bonjour bonsoir, faut reprendre les bonnes habitudes et donc écrire cette note de blog pas 
+du tout au bon moment ! On ne change pas une équipe qui gagne comme qu'on dit.
+Aujourd'hui, ce sera des retours un peu divers.
+
+Vampire V5, déjà ! 
+- J'ai acheté (parce que je suis un pigeon, un peu) le Kit du Conteur, qui consiste 
+globalement au paravent du MJ et un petit livret, avec des conseils assez bateau, une table 
+aléatoire de 100 victimes, 50 Présages, oui bon on se fait un peu chier, et 100 lieux de la 
+ville avec leurs petites règles spéciales, ha là déjà c'est un chouille plus intéressant. 
+Bon déjà payer 25€ un joli carton avec le récap des règles, est-ce bien sérieux ? Encore 
+une fois, par chez moi, ça s'appelle le matos de base d'un jdr en fait. Franchement on râle 
+sur les DLC des JV mais on est limite sur le même niveau de foutage de gueule je trouve. Et 
+puis forcément je ne suis en plus pas tellement satisfait de ce récap de règle, sur lequel 
+j'aurais sûrement moins grogné s'il m'avait pas couté le prix d'un jdr comme Slayers (on y 
+reviendra)… Bref.
+Pour le livret en lui même, je suis pas particulièrement emballé non plus, le livre de base 
+contenait déjà une liste pour des victimes, un aspect du jeu que je vois très peu mis en 
+avant (et en même temps, j'ai autre chose à faire que nommer tous les randoms de l'univers 
+qui se font sucer le sang, merci), et les Présages je vois pas tellement l'intérêt d'un 
+truc à la fois si spécifique et si générique en même temps ? Bon. 
+Mais par chance, y a aussi les lieux, et ça c'est pile ce qui m'intéresse avec ma prépa de 
+campagne, où je veux faire un bac-à-sable où chaque lieux à ses petites spécificités, 
+histoire de donner un peu de caractère à tout ça. Ca me sera utile, et je trouve cette 
+liste ci franchement intéressante, même si je ne comprends pas trop comment tu pourrais 
+l'utiliser en mode "table aléatoire" (pour des courses poursuites peut-être ?), mais c'est 
+assez mineur.
+- J'ai mené un one-shot le week-end dernier, avec des copaines qui connaissaient pas le jeu 
+ni l'univers. C'est le scénario "The Dying Fields", dans le supplément Let the Streets Run 
+Red, qui l'a emporté, donc du folk-horror dans une petite ville aux abords de Chicago.
+C'était sympa, une bonne façon de se familiariser avec le système de jeu, et l'occasion 
+aussi de tester les "simplifications" de gestion des PNJ suggéré par le jeu, à base de "On 
+va éviter de demander au MJ de lancer des brouettes de dés à chaque fois pck ça va être 
+LONG, mettons des difficultés à atteindre" qui est bien sur le papier mais puisque le jeu 
+refuse de développer précisément ses idées de simplifications pour le système (se 
+contentant d'un "Faites comme voul'voul' allez bisous"), je suis encore entrain de voir ce 
+que ça donne en jeu et comment ajuster ça correctement.
+Pour ce qui est du scénario, il est pas pire. La ville est un microcosme marrant, l'effet 
+"mystique" qui entoure la ville a bien questionné mes PJ, y a pas mal d'embranchement et de 
+choses sympas à faire. L'organisation en chapitre laisse à désirer, t'éclatant des infos 
+sur un même lieu entre plusieurs chapitres, et ne permettant pas toujours le côté "souple" 
+qu'il voudrait. Pis on parle de Chapitre, mais passé le chapitre introductif et le chapitre 
+de combat final, on a surtout des lieux et des rencontres, pas des chapitres, bref.
+Point clairement négatif et un peu spoiler pour le scénario, fuyez si vous voulez 
+l'éviter : la ville demande un test pour y naviguer, et à moins que j'ai rien compris bah 
+c'est très con ? Oui c'est marrant qu'on s'y perde, mais si il faut constamment réussir un 
+jet pour aller d'un point A à un point B, ça rend le jeu absolument ridicule et pas fun. 
+Donc bon, je l'ai mis en scène une fois ou deux, quand mes PJ voulaient explorer la ville 
+sans savoir trop où aller, mais dès qu'on a commencé à connaître l'endroit j'ai arrêté de 
+les embêter avec ça quoi. Une bonne idée sur le papier mais il manque clairement un truc 
+pour que ça tilt ?
+Egalement, c'est surement un très mauvais scénario d'intro pour le jeu (ce qu'il prétend
+pas être), vu qu'il te coupe totalement de tes relations et de la politique de la grande 
+ville, donc ce petit twist ne tapera pas vraiment pour des gens qui connaissent pô.
+Point positif par contre pour le mystère du scénario qu'est laissé assez flou, et à ma 
+grande surprise j'ai pu choisir l'option la plus "Lore Heavy" parce que j'ai eu une joueuse 
+du bon Clan et un peu intéressée par tout ça. Qui a d'ailleurs joyeusement trahi tout le 
+monde et amené une petite apocalypse à 5 minutes de la fin, c'était rigolo.
+- Ca a aussi été l'occasion de se rappeler de cette terrible idée de gamedesign : tout 
+dégâts superficiels ("léger") est divisé par 2. Qui a eu la brillante idée de se dire "Ho, 
+rajoutons des maths à l'opération la plus basique et primaire des combats" ??
+Même si je vois un peu l'idée, on est plus résistant quand on va bien, n'importe qui de 
+sensé aurait designé ça dans le sens inverse, quand tu passes en dégât aggravé tu prend x2 
+ou +1, je sais pas.
+Je peux donner l'air de pinailler, mais le jeu est blindé de choix bizarres, ou qui font 
+sens mais qui ne vont pas du tout dans le sens d'une utilisation agréable et facile à la 
+table et pardon mais à moins que votre idée soit centrale et excellente, c'est con. Voilà, 
+on commence l'année avec des takes.
+- Et enfin ça a été l'occasion de tester le générateur de Vampire rapide que j'ai créé. 
+Bon, ça nous a pris un bon 3/4 d'heures, donc "rapide" faut le dire vite, mais pas si pire 
+tout de même. Il manque encore de clarté, faudra que je bidouille ça, et que j'écrive un 
+récap et un exemple d'utilisation, vu que j'avais moi-même zappé son utilisation (oui 
+l'avantage d'une mémoire de merde c'est de play-test ses outils en condition réelle sans 
+trop de soucis…).
+Entre ça et les cartes de pouvoir, on a quand même pu à la fois créer des persos et jouer 
+au scénarios sur les deux jours comme prévu, et pas trop dépasser du créneau dédié, donc 
+c'est positif !
+
+Allez, râler c'est bien mais parlons plutôt de Slayers, le jdr de Gila RPG.
+Hé bha c'est bien.
+Voilà merci bisous.
+Non mais en fait c'est un jeu qui fait ce qu'il dit : de la chasse de monstre basique, dans 
+une ville sans fin façon Bloodborne, Castlevania ou même Dishonored, que des réf que je 
+kiff déjà, où chaque classe de personnage a sa propre petite mécanique. C'est donc un 
+design très "ludiste", proche du plaisir du jeu de société en fait, mais très épuré aussi, 
+ce qui fait que c'est très accessible.
+L'Epéiste peut relancer son dés d'attaque tant qu'iel réussit son attaque, et peut donc 
+faire des "combos" sans fin si la chance le veux, le Corvidé ne peut pas attaquer mais a 
+des oiseaux à déplacer et à qui donner des ordres, l'Arcaniste lance des sorts destructeurs 
+avec le risque de blesser ses alliés et rater ses sorts, etc. Tout est à la fois varié et 
+tout de même assez simple pour qu'à la lecture ou en une session on comprenne les enjeux 
+mécaniques de la Classe. Ajoutez à ça les multiples améliorations qui donnent des nouvelles 
+compétences et pas juste des bêtes statistiques, la synergie de groupe, et les classes de 
+fan, et à la fin de notre petite session test on s'est toustes dit qu'on s'en referais bien 
+une ou deux ou six !
+Petit conseil : les questions de distances (Au contact, Proche, Eloigné), même si elles 
+sont simplifiées, demanderont quand même un petit quadrillage avec les pions de tout le 
+monde pour ne pas faire exploser la tête des joueureuses les moins visuel·les.
+Bref, je voulais faire plus de jeu de Gila RPG cette année justement parce que son 
+approche "ludiste" mais épurée, très inspirée des JV, me donnez envie, hé bha je confirme 
+que c'est très très bien.
+
+♫ - La reco musicale du jour, parce que je suis entrain de l'écouter et qu'elle vient de me 
+motiv à écouter l'album d'où elle vient, vient du film Snatch de Guy Ritchie, un des rares 
+films où j'insiste tout le monde pour le regarder en VF parce que les accents à couper au 
+couteau de tout le monde est vraiment trop cool, et que c'est un film doudou, complètement 
+con et drôle.
+Oasis - "Fucking in the Bushes" : https://youtu.be/e7r2wfzJ4ZU?si=KcemQLUm1Zv0REXS
+⚄ - Si ce que j'ai dis sur Slayers vous a intéressé, sachez que le jeu est dans un bundle a 25€ avec tout les suppléments, et ce serait bête de s'en priver !
+Gila RPG - Slayers Bundle : https://itch.io/s/151766/slayers-bundle
+⚄ - Pour Slayers, encore, je suis allé piquer pas mal de Classe fan-made, et j'ai découvert 
+ce petit pack qui avait l'air chouette. S'avère que c'est pas du tout des classes jouables, 
+mais des petits "lyrical game"/poésie qui se cache sous la forme des classes de Slayers.
+Franchement c'est très fun, intéressant, on regrette un peu que ces classes soient pas 
+vraiment jouable (quoi que), et franchement super découverte !
+Emmy - "Fractalonauts" : https://emmv.itch.io/fractalonauts
+▶ - Est-ce que vous voulez savoir ce que devient le caca de Mario ou avoir une take pas 
+inintéressant sur le genre des Toads ?
+Bha voilà.
+Juniper Dev - "The Toad Problem" : https://youtu.be/w6MeJ-g-JyM?si=MfIRwoMXLlf50SkE
+▶ - Sujet moyen fun mais bien connu, cette vidéo de Ache (dont je découvre tranquillou la 
+chaine) parle de l'objectification des femmes dans le JV mais de façon très intéressante, 
+en faisant un peu des allers-retours entre les points de vus, avec une certaine sincérité 
+et un recul critique vraiment cool.
+Ache - "Stellar Blade, Héroïnes objectifiées : Faut-il se réapproprier la Féminité ?" : 
+https://www.youtube.com/watch?v=-f3gBKc71lw&list=LL&index=6
+▶ - Deux petits points films rapide, parce que je ne fais pas dans l'originalité : 
+- "Knives Out 3 - Wake Up Deadman" c'était très bien. Le "murder mystery" est un peu au 
+second plan ici et le film éclate volontairement le grand moment de révélation, de façon un 
+peu artificiel j'ai trouvé mais qui fait totalement sens thématiquement, fait que je suis 
+un peu resté sur ma fin, un peu gêné de pas tout à fait trouvé ce que j'étais venu 
+chercher, mais vu que les persos sont intéressants et que le propos sur la foi et la 
+radicalisation sont intelligents, vendu ! Pis on vient aussi voir les Knives Out pour ses 
+twists de la formule, alors ce serait un peu bête de reprocher qu'on nous donne ça, en 
+soit.
+- "SinnerS", après tout le monde je viens vous dire que c'est génial. Un film ultra 
+généreux, qui parle de communauté, de rapports de pouvoirs, mais qui te met aussi des 
+scènes à la limite du kitsch ultra forte et une gigue irlandaise entre l'émouvant et le 
+flippant, je sais pas quoi vous dire.
+C'est le genre de projet ultra honnête, qui a envie de dire des trucs, qui part parfois un 
+peu trop dans tous les sens et gèrent pas tous super bien (les quelques scènes de combats 
+sont… dispensables) mais ça joue même pas contre lui tellement il réussit le reste.
+Bon allez, à la rigueur : c'est un film d'horreur qui fait pas peur. Mais si en 2026 vous 
+venez voir des films d'horreurs juste pour avoir peur, c'est un peu comme si vous alliez 
+voir de la SF juste pour le "scientifique" quoi, c'est légèrement réducteur et c'est passé 
+à côté de pas mal de choses.
+Et puis ce méchant quoi !
+Nan vraiment Sinner, pfoulala quoi.
+♫ - On finit avec encore de la musique, parce qu'en ce début d'année j'ai rattrapé pas mal 
+de son du rap français, que j'aime rarement de tout mon cœur mais c'est une scène vraiment 
+super intéressante qui a juste le malheur de tout mettre sur des textes qui racontent des 
+trucs alors que moi chui là pour la sonorité principalement (et pour autre chose que les 
+égo-trip entrecoupés de phases dépressives qui composent 90% du raps Fr) bon hé ton pis 
+hein.
+J'aurais pu vous parler de l'album des remix techno de Vald qui tabassent, mais vu que je 
+suis pas super à l'aise avec le bonhomme, je vais plutôt vous recommander d'écouter ce son 
+qui rend les yeux humides de BEN plg. Si vous aimez, allez écouter l'album qui est très 
+bien, et surtout "On tombe on réessaie" qui tabasse un peu !
+BEN plg - "Chaque jour un peu plus" : https://www.youtube.com/watch?v=Fvr33bVSglE&list=LL&index=55
+
 
 BILAN 2025 - 29/12/25
 Je sors de ma pause hivernale pour un post de fin d'année pour vous parler de mon problème avec les bilans de fin d'année.
@@ -984,6 +1145,7 @@ Allez, on finit sur la seule petite folie possible, une image en ASCII, et à la
             ############                 
 
     Image en ASCII d'un dé sur le côté.
+
 
 
 
